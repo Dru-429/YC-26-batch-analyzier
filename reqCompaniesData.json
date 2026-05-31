@@ -1,0 +1,5603 @@
+{
+    "32230": {
+        "id": 32230,
+        "name": "Codag",
+        "one_liner": "Systems log compression for agents.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 1,
+        "tags": [
+            "Developer Tools"
+        ],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "32194": {
+        "id": 32194,
+        "name": "GUILD",
+        "one_liner": "Neoprime Reshaping Defense Supply Chain",
+        "locations": "New York, NY, USA",
+        "team_size": 2,
+        "tags": [
+            "Artificial Intelligence",
+            "GovTech",
+            "Compliance",
+            "Manufacturing",
+            "Supply Chain"
+        ],
+        "industries": [
+            "Industrials",
+            "Defense"
+        ]
+    },
+    "32155": {
+        "id": 32155,
+        "name": "Rex",
+        "one_liner": "AI Operations Partner for Enterprise Order to Cash",
+        "locations": "",
+        "team_size": 2,
+        "tags": [
+            "B2B",
+            "Enterprise Software",
+            "AI"
+        ],
+        "industries": [
+            "B2B",
+            "Finance and Accounting"
+        ]
+    },
+    "31591": {
+        "id": 31591,
+        "name": "RightNow",
+        "one_liner": "Enabling Model-Hardware Co-Design at Scale",
+        "locations": "",
+        "team_size": 2,
+        "tags": [
+            "Developer Tools",
+            "Infrastructure",
+            "AI"
+        ],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31574": {
+        "id": 31574,
+        "name": "HeyClicky",
+        "one_liner": "An AI buddy that lives on your Mac.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 0,
+        "tags": [
+            "Education"
+        ],
+        "industries": [
+            "Consumer"
+        ]
+    },
+    "31564": {
+        "id": 31564,
+        "name": "Huscarl",
+        "one_liner": "Actuarial intelligence for corporate risk managers",
+        "locations": "Remote",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "Fintech",
+            "Insurance"
+        ]
+    },
+    "31563": {
+        "id": 31563,
+        "name": "Thomas",
+        "one_liner": "The first AI founder: a virtual human who runs his own companies.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Artificial Intelligence",
+            "SaaS",
+            "B2B",
+            "AI"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31562": {
+        "id": 31562,
+        "name": "Cohesion",
+        "one_liner": "Your public equities agentic teammate ",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [
+            "Fintech",
+            "SaaS",
+            "Investing"
+        ],
+        "industries": [
+            "B2B",
+            "Finance and Accounting"
+        ]
+    },
+    "31561": {
+        "id": 31561,
+        "name": "Maquoketa Research",
+        "one_liner": "The intelligence layer for one-way attack drones",
+        "locations": "Elk Grove Village, IL, USA",
+        "team_size": 5,
+        "tags": [
+            "Hard Tech",
+            "Hardware",
+            "Drones",
+            "Computer Vision",
+            "Aerospace"
+        ],
+        "industries": [
+            "Industrials",
+            "Defense"
+        ]
+    },
+    "31560": {
+        "id": 31560,
+        "name": "Intelligence Factory",
+        "one_liner": "Human Intelligence for Robots",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 5,
+        "tags": [
+            "Robotics",
+            "AI"
+        ],
+        "industries": [
+            "Industrials",
+            "Manufacturing and Robotics"
+        ]
+    },
+    "31554": {
+        "id": 31554,
+        "name": "Clawvisor",
+        "one_liner": "The Authorization Layer for AI Agents",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 1,
+        "tags": [
+            "Artificial Intelligence",
+            "Security",
+            "Open Source"
+        ],
+        "industries": [
+            "B2B",
+            "Security"
+        ]
+    },
+    "31553": {
+        "id": 31553,
+        "name": "Framewise Health",
+        "one_liner": "AI-native patient engagement",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "SaaS",
+            "Health Tech",
+            "B2B"
+        ],
+        "industries": [
+            "Healthcare"
+        ]
+    },
+    "31552": {
+        "id": 31552,
+        "name": "Arctic Health",
+        "one_liner": "AI-native credentialing and contracting for healthcare",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 4,
+        "tags": [
+            "Healthcare",
+            "Healthcare IT",
+            "AI"
+        ],
+        "industries": [
+            "Healthcare",
+            "Healthcare Services"
+        ]
+    },
+    "31550": {
+        "id": 31550,
+        "name": "Playabl.ai",
+        "one_liner": "Prompt-to-play AI game builder for everyone",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 9,
+        "tags": [
+            "Consumer",
+            "Gaming",
+            "AI"
+        ],
+        "industries": [
+            "Consumer",
+            "Gaming"
+        ]
+    },
+    "31549": {
+        "id": 31549,
+        "name": "Enjamb Labs",
+        "one_liner": "Full stack AI Agents accelerating Biopharma R&D ",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "AI-powered Drug Discovery",
+            "B2B",
+            "Biotech",
+            "AI"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31548": {
+        "id": 31548,
+        "name": "Hyper",
+        "one_liner": "The Self-Driving Company Brain",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Artificial Intelligence",
+            "Productivity",
+            "Team Collaboration"
+        ],
+        "industries": [
+            "B2B",
+            "Productivity"
+        ]
+    },
+    "31547": {
+        "id": 31547,
+        "name": "InsForge",
+        "one_liner": "The agent-native cloud infrastructure platform",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 6,
+        "tags": [
+            "Developer Tools",
+            "Open Source",
+            "Infrastructure"
+        ],
+        "industries": [
+            "B2B",
+            "Engineering, Product and Design"
+        ]
+    },
+    "31546": {
+        "id": 31546,
+        "name": "ReasonBlocks",
+        "one_liner": "The runtime layer that makes AI agents cheaper and more reliable",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "SaaS",
+            "B2B",
+            "AI"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31545": {
+        "id": 31545,
+        "name": "Modern",
+        "one_liner": "AI-Native ServiceNow run by always-on AI agents",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "AIOps",
+            "Artificial Intelligence",
+            "SaaS",
+            "B2B",
+            "Healthcare IT"
+        ],
+        "industries": [
+            "B2B",
+            "Operations"
+        ]
+    },
+    "31544": {
+        "id": 31544,
+        "name": "Panacea",
+        "one_liner": "AI-Native FDA Regulatory Services",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "B2B",
+            "Medical Devices",
+            "Biotech",
+            "Healthcare",
+            "AI"
+        ],
+        "industries": [
+            "Healthcare",
+            "Healthcare Services"
+        ]
+    },
+    "31543": {
+        "id": 31543,
+        "name": "CentralComs",
+        "one_liner": "Property Management AI Agents that automate leasing and maintenance.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 0,
+        "tags": [
+            "Real Estate",
+            "B2B",
+            "Proptech"
+        ],
+        "industries": [
+            "Real Estate and Construction",
+            "Housing and Real Estate"
+        ]
+    },
+    "31540": {
+        "id": 31540,
+        "name": "KugelAudio",
+        "one_liner": "Kugel is an on-prem enterprise TTS supporting 25+ languages ",
+        "locations": "Berlin, Berlin, Germany",
+        "team_size": 4,
+        "tags": [
+            "Generative AI",
+            "API",
+            "Conversational AI"
+        ],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31539": {
+        "id": 31539,
+        "name": "Klaimee",
+        "one_liner": "Liability insurance for AI Agents. You deploy agents, we cover you.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Artificial Intelligence",
+            "Fintech",
+            "Compliance",
+            "Insurance",
+            "AI"
+        ],
+        "industries": [
+            "Fintech",
+            "Insurance"
+        ]
+    },
+    "31538": {
+        "id": 31538,
+        "name": "flowscope",
+        "one_liner": "AI-native consulting to map and automate business processes",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Artificial Intelligence",
+            "B2B",
+            "Enterprise Software"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31536": {
+        "id": 31536,
+        "name": "Gigacatalyst",
+        "one_liner": "Customize your software to every user with AI",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 4,
+        "tags": [
+            "SaaS",
+            "Enterprise",
+            "No-code",
+            "AI"
+        ],
+        "industries": [
+            "B2B",
+            "Engineering, Product and Design"
+        ]
+    },
+    "31535": {
+        "id": 31535,
+        "name": "Arlo Industries",
+        "one_liner": "Passive aerial sensing mesh to track drones and missiles",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [
+            "Hard Tech",
+            "Drones",
+            "Security",
+            "Radar",
+            "Aerospace"
+        ],
+        "industries": [
+            "Industrials",
+            "Defense"
+        ]
+    },
+    "31534": {
+        "id": 31534,
+        "name": "Astraea",
+        "one_liner": "Agents that accelerate clinical trials.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Artificial Intelligence",
+            "SaaS",
+            "Health Tech"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31533": {
+        "id": 31533,
+        "name": "Lattice Health",
+        "one_liner": "The operating system for clinical AI in imaging",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 1,
+        "tags": [
+            "Healthcare",
+            "Healthcare IT"
+        ],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31531": {
+        "id": 31531,
+        "name": "Manicule",
+        "one_liner": "AI Native Developer Relations",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 5,
+        "tags": [
+            "Artificial Intelligence",
+            "Developer Tools",
+            "B2B"
+        ],
+        "industries": [
+            "B2B",
+            "Marketing"
+        ]
+    },
+    "31530": {
+        "id": 31530,
+        "name": "Avea Robotics",
+        "one_liner": "Teleoperate your robots from anywhere in the world",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Hard Tech",
+            "Robotics",
+            "Infrastructure"
+        ],
+        "industries": [
+            "Industrials",
+            "Manufacturing and Robotics"
+        ]
+    },
+    "31529": {
+        "id": 31529,
+        "name": "Mochatrade",
+        "one_liner": "US stock perps for global traders",
+        "locations": "New York, NY, USA",
+        "team_size": 3,
+        "tags": [
+            "Fintech",
+            "Crypto / Web3",
+            "Consumer Finance"
+        ],
+        "industries": [
+            "Fintech",
+            "Consumer Finance"
+        ]
+    },
+    "31528": {
+        "id": 31528,
+        "name": "Asendia AI",
+        "one_liner": "AI Recruiters for Staffing Agencies and Enterprise",
+        "locations": "",
+        "team_size": 3,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31527": {
+        "id": 31527,
+        "name": "Revnu",
+        "one_liner": "The AI that replaces your growth team",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Developer Tools",
+            "Marketing"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31526": {
+        "id": 31526,
+        "name": "Uno Wallet",
+        "one_liner": "The AI wallet that picks the best card at checkout.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Payments",
+            "Consumer Finance",
+            "AI"
+        ],
+        "industries": [
+            "Consumer"
+        ]
+    },
+    "31525": {
+        "id": 31525,
+        "name": "Arden",
+        "one_liner": "AI agents that automate SOX control testing.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Finance",
+            "B2B",
+            "AI"
+        ],
+        "industries": [
+            "B2B",
+            "Finance and Accounting"
+        ]
+    },
+    "31524": {
+        "id": 31524,
+        "name": "AgentPhone",
+        "one_liner": "Phone Numbers for AI Agents",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Developer Tools",
+            "API",
+            "Telecommunications",
+            "AI"
+        ],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31523": {
+        "id": 31523,
+        "name": "Indexable",
+        "one_liner": "sandbox infrastructure for AI agents",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [
+            "Artificial Intelligence"
+        ],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31522": {
+        "id": 31522,
+        "name": "Gravy",
+        "one_liner": "AI Agent for your personal finances.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Artificial Intelligence",
+            "Fintech",
+            "Consumer",
+            "Consumer Finance"
+        ],
+        "industries": [
+            "Fintech",
+            "Consumer Finance"
+        ]
+    },
+    "31520": {
+        "id": 31520,
+        "name": "Kinect",
+        "one_liner": "Agentic Storefronts for E-Commerce Brands",
+        "locations": "",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31518": {
+        "id": 31518,
+        "name": "Runtime",
+        "one_liner": "Sandboxed coding agents for everyone on your team.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [
+            "Artificial Intelligence",
+            "Developer Tools"
+        ],
+        "industries": [
+            "B2B",
+            "Engineering, Product and Design"
+        ]
+    },
+    "31517": {
+        "id": 31517,
+        "name": "YouArt",
+        "one_liner": "Patreon for AI originals",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [
+            "Generative AI",
+            "Video",
+            "Creator Economy"
+        ],
+        "industries": [
+            "Consumer",
+            "Content"
+        ]
+    },
+    "31516": {
+        "id": 31516,
+        "name": "Expanse",
+        "one_liner": "Unlock wasted GPU capacity.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 4,
+        "tags": [
+            "AIOps",
+            "Developer Tools",
+            "Enterprise Software",
+            "Infrastructure"
+        ],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31515": {
+        "id": 31515,
+        "name": "Probe",
+        "one_liner": "Agent-Native Incident Management",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [
+            "Developer Tools",
+            "SaaS",
+            "B2B",
+            "DevOps",
+            "Enterprise Software"
+        ],
+        "industries": [
+            "B2B",
+            "Engineering, Product and Design"
+        ]
+    },
+    "31513": {
+        "id": 31513,
+        "name": "CharacterQuilt",
+        "one_liner": "AI infrastructure for marketers. Ship campaigns in your tools in an\u2026",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 4,
+        "tags": [
+            "Artificial Intelligence",
+            "SaaS",
+            "B2B",
+            "Marketing",
+            "AI"
+        ],
+        "industries": [
+            "B2B",
+            "Marketing"
+        ]
+    },
+    "31512": {
+        "id": 31512,
+        "name": "Pentagon",
+        "one_liner": "A coordination layer for humans and agents.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 1,
+        "tags": [
+            "Artificial Intelligence",
+            "B2B",
+            "Enterprise Software"
+        ],
+        "industries": [
+            "B2B",
+            "Productivity"
+        ]
+    },
+    "31511": {
+        "id": 31511,
+        "name": "Arzana",
+        "one_liner": "AI automation for the manufacturing office",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 5,
+        "tags": [
+            "Manufacturing",
+            "Automation",
+            "Operations",
+            "AI",
+            "Industrial"
+        ],
+        "industries": [
+            "B2B",
+            "Operations"
+        ]
+    },
+    "31510": {
+        "id": 31510,
+        "name": "Auxos",
+        "one_liner": "AI customer clones for market research",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [
+            "B2B",
+            "Marketing",
+            "Market Research",
+            "AI"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31507": {
+        "id": 31507,
+        "name": "ProjectX",
+        "one_liner": "Infinity: the first OS where humans and agents work with no limits.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 6,
+        "tags": [
+            "Marketplace",
+            "DevOps",
+            "Cloud Computing",
+            "Infrastructure",
+            "AI"
+        ],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31505": {
+        "id": 31505,
+        "name": "OpenWork",
+        "one_liner": "The open source alternative to Claude Cowork",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 4,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Productivity"
+        ]
+    },
+    "31503": {
+        "id": 31503,
+        "name": "Apollo Atomics, Inc.",
+        "one_liner": "We make the most compact nuclear machines.",
+        "locations": "Cambridge, MA, USA",
+        "team_size": null,
+        "tags": [
+            "Small Modular Reactors",
+            "Manufacturing"
+        ],
+        "industries": [
+            "Industrials",
+            "Energy"
+        ]
+    },
+    "31501": {
+        "id": 31501,
+        "name": "General Aviation",
+        "one_liner": "Fix ATC by connecting aircraft to the internet",
+        "locations": "New York City, NY, USA",
+        "team_size": 0,
+        "tags": [
+            "Hard Tech",
+            "Satellites",
+            "Transportation",
+            "Mobility",
+            "Aerospace"
+        ],
+        "industries": [
+            "Industrials",
+            "Aviation and Space"
+        ]
+    },
+    "31500": {
+        "id": 31500,
+        "name": "OpenProse",
+        "one_liner": "A natural language agent framework: write the future into existence.",
+        "locations": "San Francisco, CA, USA; Remote",
+        "team_size": 3,
+        "tags": [
+            "AIOps",
+            "Artificial Intelligence",
+            "Developer Tools",
+            "Swarm AI",
+            "AI Assistant"
+        ],
+        "industries": [
+            "B2B",
+            "Engineering, Product and Design"
+        ]
+    },
+    "31498": {
+        "id": 31498,
+        "name": "Aster",
+        "one_liner": "The First AI-Native AI Research Lab",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 1,
+        "tags": [
+            "Artificial Intelligence",
+            "AI"
+        ],
+        "industries": [
+            "B2B",
+            "Productivity"
+        ]
+    },
+    "31497": {
+        "id": 31497,
+        "name": "Amboras",
+        "one_liner": "Let AI sell your stuff on autopilot",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [
+            "Generative AI",
+            "B2B",
+            "E-commerce"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31496": {
+        "id": 31496,
+        "name": "Hessian",
+        "one_liner": "We forward deploy with AI agents to automate business operations",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [
+            "Developer Tools",
+            "Machine Learning",
+            "Workflow Automation",
+            "AI"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31494": {
+        "id": 31494,
+        "name": "RASPIRE",
+        "one_liner": "No-code runtime app security with AI",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [
+            "SaaS",
+            "B2B",
+            "Cybersecurity",
+            "No-code",
+            "AI"
+        ],
+        "industries": [
+            "B2B",
+            "Security"
+        ]
+    },
+    "31493": {
+        "id": 31493,
+        "name": "Plena Health",
+        "one_liner": "Plena is the AI operating system for specialty medical practices",
+        "locations": "San Francisco, CA, USA",
+        "team_size": null,
+        "tags": [
+            "Healthcare",
+            "Healthcare IT"
+        ],
+        "industries": [
+            "Healthcare",
+            "Healthcare Services"
+        ]
+    },
+    "31491": {
+        "id": 31491,
+        "name": "TesterArmy",
+        "one_liner": "Test your app with AI, catch bugs before users do",
+        "locations": "San Francisco, CA, USA; Remote",
+        "team_size": 4,
+        "tags": [
+            "Artificial Intelligence",
+            "Developer Tools",
+            "B2B"
+        ],
+        "industries": [
+            "B2B",
+            "Engineering, Product and Design"
+        ]
+    },
+    "31489": {
+        "id": 31489,
+        "name": "Eden Robotics",
+        "one_liner": "Autonomous services for humanity.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 4,
+        "tags": [
+            "Robotic Process Automation",
+            "Robotics",
+            "Automation",
+            "AI"
+        ],
+        "industries": [
+            "Industrials",
+            "Manufacturing and Robotics"
+        ]
+    },
+    "31488": {
+        "id": 31488,
+        "name": "Foaster",
+        "one_liner": "The AI-native consulting firm for AI transformation.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "B2B",
+            "Enterprise Software",
+            "AI"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31487": {
+        "id": 31487,
+        "name": "AquaShield",
+        "one_liner": "AI water leak detection for buildings",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [
+            "Real Estate",
+            "B2B"
+        ],
+        "industries": [
+            "Real Estate and Construction"
+        ]
+    },
+    "31486": {
+        "id": 31486,
+        "name": "Ornadyne",
+        "one_liner": "We're building robot birds for surveillance.",
+        "locations": "Los Angeles, CA, USA",
+        "team_size": 4,
+        "tags": [
+            "Hard Tech",
+            "Robotics",
+            "Drones",
+            "Aerospace"
+        ],
+        "industries": [
+            "Industrials",
+            "Drones"
+        ]
+    },
+    "31485": {
+        "id": 31485,
+        "name": "ANORIA",
+        "one_liner": "The first wearable that reads your emotions to enhance your EQ. ",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 5,
+        "tags": [
+            "Artificial Intelligence",
+            "Hardware",
+            "Mental Health Tech",
+            "Consumer Health Services",
+            "Consumer Products"
+        ],
+        "industries": [
+            "Consumer",
+            "Consumer Electronics"
+        ]
+    },
+    "31484": {
+        "id": 31484,
+        "name": "AbInitio Bio",
+        "one_liner": "The Intelligence layer for Drug Manufacturing",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 1,
+        "tags": [
+            "AI-powered Drug Discovery",
+            "Biotech",
+            "Manufacturing"
+        ],
+        "industries": [
+            "Healthcare",
+            "Drug Discovery and Delivery"
+        ]
+    },
+    "31482": {
+        "id": 31482,
+        "name": "Memory Store",
+        "one_liner": "Shared context for all of your team's agents.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 4,
+        "tags": [
+            "Generative AI",
+            "SaaS",
+            "B2B"
+        ],
+        "industries": [
+            "B2B",
+            "Productivity"
+        ]
+    },
+    "31481": {
+        "id": 31481,
+        "name": "Saudara AI",
+        "one_liner": "AI Native Sourcing Broker",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Artificial Intelligence",
+            "B2B",
+            "Logistics",
+            "Manufacturing",
+            "Procurement"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31480": {
+        "id": 31480,
+        "name": "Pops",
+        "one_liner": "Create & play AI games with friends",
+        "locations": "New York, NY, USA",
+        "team_size": 1,
+        "tags": [
+            "Artificial Intelligence",
+            "Consumer",
+            "Gaming",
+            "Social"
+        ],
+        "industries": [
+            "Consumer",
+            "Gaming"
+        ]
+    },
+    "31478": {
+        "id": 31478,
+        "name": "Silmaril",
+        "one_liner": "Prompt injection defense that is self-healing",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Security"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31477": {
+        "id": 31477,
+        "name": "BioStack Platforms",
+        "one_liner": "Real world training envs for healthcare AI models",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 0,
+        "tags": [],
+        "industries": [
+            "Healthcare"
+        ]
+    },
+    "31475": {
+        "id": 31475,
+        "name": "Ardent",
+        "one_liner": "Database sandboxes for Agents",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Data Engineering",
+            "Infrastructure",
+            "AI"
+        ],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31473": {
+        "id": 31473,
+        "name": "Kuli",
+        "one_liner": "AI coworker for marketing teams",
+        "locations": "",
+        "team_size": 3,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Marketing"
+        ]
+    },
+    "31472": {
+        "id": 31472,
+        "name": "Wato",
+        "one_liner": "Shared memory, tools, and workflows for agents across teams",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Enterprise Software",
+            "AI"
+        ],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31470": {
+        "id": 31470,
+        "name": "Tasklet",
+        "one_liner": "The cloud agent operating system for knowledge work",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 8,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Productivity"
+        ]
+    },
+    "31468": {
+        "id": 31468,
+        "name": "Chronicle Labs",
+        "one_liner": "Staging Environments for Enterprise AI Agents",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "AIOps",
+            "SaaS",
+            "AI"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31466": {
+        "id": 31466,
+        "name": "Walter",
+        "one_liner": "AI Employee for Manufacturing Operations",
+        "locations": "",
+        "team_size": 0,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Operations"
+        ]
+    },
+    "31465": {
+        "id": 31465,
+        "name": "Aseon Labs",
+        "one_liner": "Robotic pitstops for self-driving cars",
+        "locations": "Redwood City, CA, USA",
+        "team_size": 5,
+        "tags": [
+            "Artificial Intelligence",
+            "Hardware",
+            "Machine Learning",
+            "Robotics",
+            "Self-Driving Vehicles"
+        ],
+        "industries": [
+            "Industrials",
+            "Manufacturing and Robotics"
+        ]
+    },
+    "31464": {
+        "id": 31464,
+        "name": "Soria",
+        "one_liner": "AI Bloomberg Terminal built for Healthcare (and beyond)",
+        "locations": "New York, NY, USA",
+        "team_size": 3,
+        "tags": [
+            "Fintech",
+            "AI",
+            "Stocks"
+        ],
+        "industries": [
+            "Fintech",
+            "Asset Management"
+        ]
+    },
+    "31463": {
+        "id": 31463,
+        "name": "Armature",
+        "one_liner": "Armature helps companies monitor and optimize the agent experience.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [
+            "AI"
+        ],
+        "industries": [
+            "B2B",
+            "Engineering, Product and Design"
+        ]
+    },
+    "31460": {
+        "id": 31460,
+        "name": "PLAN0 AI",
+        "one_liner": "AI powered construction cost estimation & analytics.",
+        "locations": "",
+        "team_size": 5,
+        "tags": [
+            "Computer Vision",
+            "Real Estate",
+            "Construction",
+            "Proptech",
+            "AI"
+        ],
+        "industries": [
+            "Real Estate and Construction"
+        ]
+    },
+    "31459": {
+        "id": 31459,
+        "name": "Zibra Labs",
+        "one_liner": "Distributed Compute for AI",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Artificial Intelligence",
+            "Fintech",
+            "Cloud Computing",
+            "Infrastructure"
+        ],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31458": {
+        "id": 31458,
+        "name": "Ara",
+        "one_liner": "Ara is the self-driving IDE for software teams.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Artificial Intelligence",
+            "Developer Tools"
+        ],
+        "industries": [
+            "B2B",
+            "Productivity"
+        ]
+    },
+    "31457": {
+        "id": 31457,
+        "name": "ValCtrl",
+        "one_liner": "ValCtrl is the world model for Prediction Finance, and Kassandre\u2026",
+        "locations": "New York, NY, USA",
+        "team_size": 2,
+        "tags": [
+            "Artificial Intelligence",
+            "Fintech",
+            "Finance",
+            "Analytics",
+            "Data Engineering"
+        ],
+        "industries": [
+            "Fintech",
+            "Banking and Exchange"
+        ]
+    },
+    "31456": {
+        "id": 31456,
+        "name": "General Instinct",
+        "one_liner": "Deployable Physical AI on Any Edge Device.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Robotics",
+            "Drones",
+            "Manufacturing",
+            "AI"
+        ],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31454": {
+        "id": 31454,
+        "name": "Datost",
+        "one_liner": "The proactive AI data analyst",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "B2B",
+            "Analytics",
+            "AI Assistant"
+        ],
+        "industries": [
+            "B2B",
+            "Analytics"
+        ]
+    },
+    "31453": {
+        "id": 31453,
+        "name": "Minicor",
+        "one_liner": "RPA platform for deploying AI into legacy desktop systems",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 7,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31452": {
+        "id": 31452,
+        "name": "Degla Inc",
+        "one_liner": "The fully autonomous intelligence layer in the sky.",
+        "locations": "Boston, MA, USA",
+        "team_size": 2,
+        "tags": [
+            "Artificial Intelligence",
+            "Hard Tech",
+            "Drones",
+            "Aerospace",
+            "AI"
+        ],
+        "industries": [
+            "Industrials",
+            "Drones"
+        ]
+    },
+    "31451": {
+        "id": 31451,
+        "name": "Archer",
+        "one_liner": "The Financial Layer For Growth",
+        "locations": "New York, NY, USA",
+        "team_size": 4,
+        "tags": [
+            "Crypto / Web3",
+            "Finance",
+            "AI"
+        ],
+        "industries": [
+            "B2B",
+            "Finance and Accounting"
+        ]
+    },
+    "31450": {
+        "id": 31450,
+        "name": "River Markets",
+        "one_liner": "Prime brokerage for prediction markets",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Trading"
+        ],
+        "industries": [
+            "Fintech"
+        ]
+    },
+    "31448": {
+        "id": 31448,
+        "name": "smol machines",
+        "one_liner": "Ship software faster with portable, self contained virtual machines.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 1,
+        "tags": [
+            "Cloud Computing",
+            "Infrastructure"
+        ],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31447": {
+        "id": 31447,
+        "name": "Allowance",
+        "one_liner": "Scoped payment credentials for AI agents",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 1,
+        "tags": [
+            "Fintech",
+            "Generative AI",
+            "Payments"
+        ],
+        "industries": [
+            "Fintech",
+            "Payments"
+        ]
+    },
+    "31445": {
+        "id": 31445,
+        "name": "Harbor",
+        "one_liner": "AI-native CRO for clinical trial operations",
+        "locations": "San Diego, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "SaaS",
+            "Health Tech",
+            "B2B",
+            "Healthcare"
+        ],
+        "industries": [
+            "Healthcare"
+        ]
+    },
+    "31444": {
+        "id": 31444,
+        "name": "Alchemize",
+        "one_liner": "AI-Native Customs Brokerage",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Logistics",
+            "Supply Chain",
+            "AI"
+        ],
+        "industries": [
+            "B2B",
+            "Supply Chain and Logistics"
+        ]
+    },
+    "31443": {
+        "id": 31443,
+        "name": "Complir",
+        "one_liner": "Vanta for physical products",
+        "locations": "Copenhagen, Denmark",
+        "team_size": 13,
+        "tags": [
+            "Retail",
+            "Regtech",
+            "Consumer Products"
+        ],
+        "industries": [
+            "B2B",
+            "Retail"
+        ]
+    },
+    "31442": {
+        "id": 31442,
+        "name": "AICE",
+        "one_liner": "Submarine drones for defense",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Hardware",
+            "Swarm AI",
+            "Robotics",
+            "Drones"
+        ],
+        "industries": [
+            "Industrials",
+            "Defense"
+        ]
+    },
+    "31441": {
+        "id": 31441,
+        "name": "Infera",
+        "one_liner": "Control lab instruments with natural language.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Artificial Intelligence",
+            "SaaS",
+            "B2B",
+            "Biotech",
+            "Automation"
+        ],
+        "industries": [
+            "Healthcare",
+            "Industrial Bio"
+        ]
+    },
+    "31440": {
+        "id": 31440,
+        "name": "Mount",
+        "one_liner": "The AI-Agent Insurance Carrier",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "Fintech",
+            "Insurance"
+        ]
+    },
+    "31439": {
+        "id": 31439,
+        "name": "Parrot",
+        "one_liner": "AI-native operating system for auto shops",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "SaaS",
+            "Workflow Automation",
+            "Automation",
+            "Automotive"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31438": {
+        "id": 31438,
+        "name": "Result",
+        "one_liner": "Where new internet entrepreneurs build and run their companies",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Consumer"
+        ],
+        "industries": [
+            "Consumer"
+        ]
+    },
+    "31437": {
+        "id": 31437,
+        "name": "Sidekick",
+        "one_liner": "AI-powered SMS assistant for deskless workers.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 1,
+        "tags": [
+            "SaaS",
+            "B2B",
+            "AI Assistant"
+        ],
+        "industries": [
+            "B2B",
+            "Operations"
+        ]
+    },
+    "31436": {
+        "id": 31436,
+        "name": "Prototyping.io",
+        "one_liner": "Autonomous manufacturing for mechanical parts",
+        "locations": "Sunnyvale, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Hardware",
+            "Manufacturing",
+            "Automation",
+            "AI"
+        ],
+        "industries": [
+            "Industrials",
+            "Manufacturing and Robotics"
+        ]
+    },
+    "31435": {
+        "id": 31435,
+        "name": "Lumius",
+        "one_liner": "Fast, smart, accessible 3D ultrasound for everyone",
+        "locations": "Durham, NC, USA",
+        "team_size": 4,
+        "tags": [
+            "Hard Tech",
+            "Medical Devices",
+            "Digital Health"
+        ],
+        "industries": [
+            "Healthcare",
+            "Medical Devices"
+        ]
+    },
+    "31434": {
+        "id": 31434,
+        "name": "Adialante",
+        "one_liner": "Cancer screening without barriers",
+        "locations": "Redwood City, CA, USA",
+        "team_size": 4,
+        "tags": [
+            "Hardware",
+            "Medical Devices",
+            "Health & Wellness"
+        ],
+        "industries": [
+            "Healthcare",
+            "Diagnostics"
+        ]
+    },
+    "31432": {
+        "id": 31432,
+        "name": "Keyframe Labs",
+        "one_liner": "Turn agents into lifelike video calls. $0.06 a minute.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "B2B",
+            "Video",
+            "API",
+            "AI"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31430": {
+        "id": 31430,
+        "name": "Voquill",
+        "one_liner": "The AI coworker that helps pathologists work cases faster",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [
+            "Artificial Intelligence",
+            "SaaS",
+            "Health Tech"
+        ],
+        "industries": [
+            "Healthcare"
+        ]
+    },
+    "31429": {
+        "id": 31429,
+        "name": "Oddpool",
+        "one_liner": "Institutional data layer for prediction markets",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Fintech",
+            "Finance",
+            "Analytics"
+        ],
+        "industries": [
+            "B2B",
+            "Engineering, Product and Design"
+        ]
+    },
+    "31428": {
+        "id": 31428,
+        "name": "Ontora",
+        "one_liner": "AI agents that interview every employee to map how work gets done.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [
+            "Artificial Intelligence",
+            "B2B",
+            "Analytics",
+            "Operations"
+        ],
+        "industries": [
+            "B2B",
+            "Operations"
+        ]
+    },
+    "31427": {
+        "id": 31427,
+        "name": "Napkin Math",
+        "one_liner": "the hyper-The hyper-personalized AI food journal that helps people\u2026",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [
+            "Consumer",
+            "Fitness",
+            "Digital Health",
+            "Food",
+            "AI"
+        ],
+        "industries": [
+            "Consumer"
+        ]
+    },
+    "31426": {
+        "id": 31426,
+        "name": "Gojiberry AI",
+        "one_liner": "AI GTM agents for B2B teams",
+        "locations": "San Francisco, CA, USA; Remote",
+        "team_size": 7,
+        "tags": [
+            "B2B",
+            "Sales",
+            "AI"
+        ],
+        "industries": [
+            "B2B",
+            "Sales"
+        ]
+    },
+    "31424": {
+        "id": 31424,
+        "name": "Lab0",
+        "one_liner": "Automated forward-deployed engineers (AI FDEs)",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [
+            "SaaS",
+            "B2B",
+            "Enterprise",
+            "Enterprise Software",
+            "AI"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31423": {
+        "id": 31423,
+        "name": "BentoLabs AI",
+        "one_liner": "The monitoring and learning layer for long-running agents",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 5,
+        "tags": [
+            "Artificial Intelligence",
+            "Developer Tools",
+            "B2B",
+            "Monitoring"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31421": {
+        "id": 31421,
+        "name": "Lamina Labs",
+        "one_liner": "Visual infrastructure for EdTech AI applications",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Education",
+            "Video",
+            "Edtech"
+        ],
+        "industries": [
+            "B2B",
+            "Engineering, Product and Design"
+        ]
+    },
+    "31420": {
+        "id": 31420,
+        "name": "Kimpton AI",
+        "one_liner": "AI for portfolio managers",
+        "locations": "San Francisco, CA, USA; Remote",
+        "team_size": 5,
+        "tags": [
+            "Fintech",
+            "Investing",
+            "AI"
+        ],
+        "industries": [
+            "Fintech",
+            "Asset Management"
+        ]
+    },
+    "31419": {
+        "id": 31419,
+        "name": "StableBrowse",
+        "one_liner": "Browser Layer for AI agents",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 4,
+        "tags": [
+            "API",
+            "Automation",
+            "Web Development",
+            "AI"
+        ],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31418": {
+        "id": 31418,
+        "name": "Taiga",
+        "one_liner": "Full-stack Medical Billing Services",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Artificial Intelligence"
+        ],
+        "industries": [
+            "Healthcare",
+            "Healthcare Services"
+        ]
+    },
+    "31417": {
+        "id": 31417,
+        "name": "Pairio",
+        "one_liner": "AI-native industrial maintenance software",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [
+            "SaaS",
+            "B2B",
+            "Manufacturing"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31416": {
+        "id": 31416,
+        "name": "Callab AI",
+        "one_liner": "AI voice agents for on-prem telephony stack. ",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 7,
+        "tags": [
+            "B2B",
+            "Call Center",
+            "AI"
+        ],
+        "industries": [
+            "B2B",
+            "Operations"
+        ]
+    },
+    "31415": {
+        "id": 31415,
+        "name": "Synphony",
+        "one_liner": "robots & software for farms",
+        "locations": "San Carlos, CA, USA",
+        "team_size": 10,
+        "tags": [
+            "Food Service Robots & Machines",
+            "SaaS",
+            "Robotics",
+            "Agriculture"
+        ],
+        "industries": [
+            "Industrials",
+            "Manufacturing and Robotics"
+        ]
+    },
+    "31414": {
+        "id": 31414,
+        "name": "Drip",
+        "one_liner": "The operating system for enterprise deal execution",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "B2B",
+            "Sales Enablement",
+            "Billing",
+            "Infrastructure"
+        ],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31413": {
+        "id": 31413,
+        "name": "Arga Labs",
+        "one_liner": "Real-world sandboxes to test agents and agent-facing software",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [
+            "Developer Tools",
+            "SaaS",
+            "Infrastructure"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31411": {
+        "id": 31411,
+        "name": "Andco",
+        "one_liner": "End-to-end case workups for personal injury firms.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 0,
+        "tags": [
+            "Artificial Intelligence",
+            "Legal"
+        ],
+        "industries": [
+            "B2B",
+            "Legal"
+        ]
+    },
+    "31410": {
+        "id": 31410,
+        "name": "RentAHuman",
+        "one_liner": "Marketplace for AI agents to hire humans.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [
+            "Artificial Intelligence",
+            "Marketplace"
+        ],
+        "industries": [
+            "Consumer",
+            "Job and Career Services"
+        ]
+    },
+    "31409": {
+        "id": 31409,
+        "name": "InstaAgent",
+        "one_liner": "Scale marketing campaigns across hundreds of personas",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 6,
+        "tags": [
+            "Generative AI",
+            "B2B",
+            "Social Media",
+            "Marketing"
+        ],
+        "industries": [
+            "B2B",
+            "Marketing"
+        ]
+    },
+    "31408": {
+        "id": 31408,
+        "name": "Salesgraph",
+        "one_liner": "the context layer for fast moving sales teams",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "SaaS",
+            "B2B",
+            "Sales"
+        ],
+        "industries": [
+            "B2B",
+            "Sales"
+        ]
+    },
+    "31407": {
+        "id": 31407,
+        "name": "Sherpa",
+        "one_liner": "Turn more website visitors into customers",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Artificial Intelligence",
+            "SaaS",
+            "B2B",
+            "Marketing",
+            "AI"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31404": {
+        "id": 31404,
+        "name": "Userlens",
+        "one_liner": "AI CSM that never misses churn and upsells. ",
+        "locations": "Helsinki, Finland",
+        "team_size": 4,
+        "tags": [
+            "SaaS",
+            "Customer Success",
+            "Enterprise Software",
+            "AI Assistant"
+        ],
+        "industries": [
+            "B2B",
+            "Productivity"
+        ]
+    },
+    "31403": {
+        "id": 31403,
+        "name": "transload",
+        "one_liner": "Measure freight items with security cameras",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [
+            "Computer Vision",
+            "Logistics",
+            "Supply Chain"
+        ],
+        "industries": [
+            "B2B",
+            "Supply Chain and Logistics"
+        ]
+    },
+    "31402": {
+        "id": 31402,
+        "name": "Standout",
+        "one_liner": "Agentic hiring marketplace",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [
+            "Artificial Intelligence",
+            "Marketplace",
+            "Careers"
+        ],
+        "industries": [
+            "B2B",
+            "Recruiting and Talent"
+        ]
+    },
+    "31399": {
+        "id": 31399,
+        "name": "Madrone",
+        "one_liner": "Maximizing compute via hyper-efficient cooling",
+        "locations": "Mountain View, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Artificial Intelligence",
+            "Hardware",
+            "Climate",
+            "Advanced Materials",
+            "Industrial"
+        ],
+        "industries": [
+            "Industrials",
+            "Energy"
+        ]
+    },
+    "31398": {
+        "id": 31398,
+        "name": "Pavoot",
+        "one_liner": "AI Event Manager for Customer Events",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 0,
+        "tags": [
+            "B2B",
+            "Sales",
+            "Marketing",
+            "AI"
+        ],
+        "industries": [
+            "B2B",
+            "Marketing"
+        ]
+    },
+    "31396": {
+        "id": 31396,
+        "name": "qomplement",
+        "one_liner": "The Agentic ERP for supply chain operations",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 4,
+        "tags": [
+            "B2B",
+            "Logistics",
+            "Supply Chain",
+            "Enterprise Software",
+            "AI"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31395": {
+        "id": 31395,
+        "name": "Deep Interactions",
+        "one_liner": "Collaborative AI app builder for teams",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 4,
+        "tags": [
+            "Artificial Intelligence",
+            "Developer Tools",
+            "Generative AI",
+            "SaaS",
+            "Team Collaboration"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31393": {
+        "id": 31393,
+        "name": "KelAI",
+        "one_liner": "Intelligence platform for systematic market insights",
+        "locations": "New York, NY, USA",
+        "team_size": 3,
+        "tags": [
+            "Generative AI",
+            "Swarm AI",
+            "Finance",
+            "Market Research",
+            "Investments"
+        ],
+        "industries": [
+            "Fintech"
+        ]
+    },
+    "31391": {
+        "id": 31391,
+        "name": "HEVN, inc",
+        "one_liner": "API primitives to automate global payroll",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 4,
+        "tags": [
+            "AIOps",
+            "Artificial Intelligence",
+            "Finance",
+            "Neobank",
+            "Automation"
+        ],
+        "industries": [
+            "Fintech"
+        ]
+    },
+    "31390": {
+        "id": 31390,
+        "name": "Wealor",
+        "one_liner": "AI-native platform for wealth managers",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 0,
+        "tags": [
+            "Fintech"
+        ],
+        "industries": [
+            "Fintech",
+            "Asset Management"
+        ]
+    },
+    "31388": {
+        "id": 31388,
+        "name": "Elyra",
+        "one_liner": "AI Reservation System for Restaurants ",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Artificial Intelligence",
+            "SaaS",
+            "Restaurant Tech"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31386": {
+        "id": 31386,
+        "name": "Interfaze",
+        "one_liner": "AI model built for deterministic developer tasks",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 5,
+        "tags": [
+            "Deep Learning",
+            "Developer Tools",
+            "Generative AI"
+        ],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31385": {
+        "id": 31385,
+        "name": "Zolvo",
+        "one_liner": "AI that automates servicing for commercial lenders",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 4,
+        "tags": [],
+        "industries": [
+            "Fintech",
+            "Credit and Lending"
+        ]
+    },
+    "31383": {
+        "id": 31383,
+        "name": "Juno",
+        "one_liner": "AI Health Assistant for Chronic Illness",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Health Tech",
+            "Health & Wellness",
+            "Consumer Products"
+        ],
+        "industries": [
+            "Healthcare",
+            "Consumer Health and Wellness"
+        ]
+    },
+    "31382": {
+        "id": 31382,
+        "name": "Kinro",
+        "one_liner": "AI sales agents for insurance. Sell everywhere your buyers are.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Sales"
+        ]
+    },
+    "31381": {
+        "id": 31381,
+        "name": "GovGuard",
+        "one_liner": "AI Infrastructure for Government Agencies",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 0,
+        "tags": [
+            "GovTech"
+        ],
+        "industries": [
+            "Government"
+        ]
+    },
+    "31380": {
+        "id": 31380,
+        "name": "Superlog",
+        "one_liner": "Observability that installs itself and fixes the bugs it finds.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Artificial Intelligence",
+            "Developer Tools",
+            "Open Source",
+            "Monitoring",
+            "AI"
+        ],
+        "industries": [
+            "B2B",
+            "Engineering, Product and Design"
+        ]
+    },
+    "31378": {
+        "id": 31378,
+        "name": "GodHands",
+        "one_liner": "Deterministic Computer Use Infra for AI Agents",
+        "locations": "San Francisco, CA, USA; Remote",
+        "team_size": 2,
+        "tags": [
+            "Robotic Process Automation",
+            "Workflow Automation",
+            "AI"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31377": {
+        "id": 31377,
+        "name": "Limrun",
+        "one_liner": "Extend your cloud agent with XCode, Android and more",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 1,
+        "tags": [
+            "Artificial Intelligence",
+            "B2B",
+            "Enterprise Software",
+            "Cloud Computing"
+        ],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31376": {
+        "id": 31376,
+        "name": "Light Anchor",
+        "one_liner": "AI-run consumer brands",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Artificial Intelligence",
+            "E-commerce"
+        ],
+        "industries": [
+            "Consumer"
+        ]
+    },
+    "31375": {
+        "id": 31375,
+        "name": "Hub.xyz",
+        "one_liner": "The API for real-world training data.",
+        "locations": "Palo Alto, CA, USA",
+        "team_size": 10,
+        "tags": [
+            "Artificial Intelligence",
+            "Robotics",
+            "Data Labeling",
+            "Big Data",
+            "AI"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31374": {
+        "id": 31374,
+        "name": "Tenet Industries",
+        "one_liner": "Low-cost, mass-produced strike drones",
+        "locations": "",
+        "team_size": 4,
+        "tags": [
+            "Hardware",
+            "Manufacturing"
+        ],
+        "industries": [
+            "Industrials",
+            "Defense"
+        ]
+    },
+    "31373": {
+        "id": 31373,
+        "name": "Refortifai",
+        "one_liner": "AI Agents for Analog Circuit Design",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [
+            "Artificial Intelligence",
+            "Generative AI",
+            "Reinforcement Learning",
+            "B2B",
+            "Semiconductors"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31372": {
+        "id": 31372,
+        "name": "Trellis",
+        "one_liner": "The operating layer for the next hospitality platform",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 6,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Operations"
+        ]
+    },
+    "31371": {
+        "id": 31371,
+        "name": "The Company Company",
+        "one_liner": "The last agent your company will ever need.",
+        "locations": "",
+        "team_size": 1,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31370": {
+        "id": 31370,
+        "name": "Dayjob",
+        "one_liner": "AI Agents for Industrial Logistics",
+        "locations": "London, United Kingdom",
+        "team_size": 5,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Supply Chain and Logistics"
+        ]
+    },
+    "31369": {
+        "id": 31369,
+        "name": "InLoop Robotics",
+        "one_liner": "Staff your warehouse with robotic employees today",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 4,
+        "tags": [
+            "Hard Tech",
+            "Robotics",
+            "Logistics",
+            "AI"
+        ],
+        "industries": [
+            "Industrials",
+            "Manufacturing and Robotics"
+        ]
+    },
+    "31367": {
+        "id": 31367,
+        "name": "Andustry",
+        "one_liner": "We help manufacturers find suppliers for industrial goods.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Marketplace",
+            "Sales",
+            "Manufacturing",
+            "Procurement",
+            "Industrial"
+        ],
+        "industries": [
+            "B2B",
+            "Supply Chain and Logistics"
+        ]
+    },
+    "31366": {
+        "id": 31366,
+        "name": "Nine Fives",
+        "one_liner": "Simple, Networked, Driverless, RF Test Equipment",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Radar",
+            "Telecommunications",
+            "Electronics"
+        ],
+        "industries": [
+            "Industrials",
+            "Manufacturing and Robotics"
+        ]
+    },
+    "31365": {
+        "id": 31365,
+        "name": "Incandor",
+        "one_liner": "Behavioral intelligence infrastructure for anti-fraud",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 0,
+        "tags": [
+            "Security",
+            "AI"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31364": {
+        "id": 31364,
+        "name": "Chert",
+        "one_liner": "iMessage infrastructure for trusted communication at scale",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Artificial Intelligence",
+            "SaaS",
+            "API",
+            "Customer Support",
+            "Conversational AI"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31363": {
+        "id": 31363,
+        "name": "Saffron",
+        "one_liner": "Helping your company find 10x engineers. ",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [
+            "SaaS",
+            "Human Resources",
+            "HR Tech"
+        ],
+        "industries": [
+            "B2B",
+            "Recruiting and Talent"
+        ]
+    },
+    "31362": {
+        "id": 31362,
+        "name": "matforge",
+        "one_liner": "AI scientists to discover semiconductor materials",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Artificial Intelligence",
+            "Advanced Materials",
+            "Semiconductors",
+            "AI"
+        ],
+        "industries": [
+            "Industrials",
+            "Energy"
+        ]
+    },
+    "31360": {
+        "id": 31360,
+        "name": "Lightsprint",
+        "one_liner": "Collaborative product development platform",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [
+            "Developer Tools",
+            "Generative AI",
+            "B2B",
+            "Enterprise Software",
+            "AI"
+        ],
+        "industries": [
+            "B2B",
+            "Engineering, Product and Design"
+        ]
+    },
+    "31359": {
+        "id": 31359,
+        "name": "Twolabs",
+        "one_liner": "Humanoid robots for caregiving.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Robotics",
+            "AI"
+        ],
+        "industries": [
+            "Industrials",
+            "Manufacturing and Robotics"
+        ]
+    },
+    "31351": {
+        "id": 31351,
+        "name": "Scope",
+        "one_liner": "We make your product discoverable and usable by any AI agent",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 1,
+        "tags": [
+            "Generative AI",
+            "B2B",
+            "AI"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31350": {
+        "id": 31350,
+        "name": "Hexa",
+        "one_liner": "The OS for Manufacturers and Distributors",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [
+            "B2B",
+            "Workflow Automation",
+            "Supply Chain"
+        ],
+        "industries": [
+            "B2B",
+            "Supply Chain and Logistics"
+        ]
+    },
+    "31346": {
+        "id": 31346,
+        "name": "Rudus",
+        "one_liner": "AI Takeoffs Built for Concrete",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Artificial Intelligence",
+            "SaaS",
+            "Construction",
+            "B2B"
+        ],
+        "industries": [
+            "Real Estate and Construction",
+            "Construction"
+        ]
+    },
+    "31345": {
+        "id": 31345,
+        "name": "Replicas",
+        "one_liner": "Run any coding agent harness in the cloud",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Artificial Intelligence",
+            "Developer Tools",
+            "SaaS",
+            "B2B",
+            "API"
+        ],
+        "industries": [
+            "B2B",
+            "Engineering, Product and Design"
+        ]
+    },
+    "31344": {
+        "id": 31344,
+        "name": "Totalis",
+        "one_liner": "derivative layer for prediction markets",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 0,
+        "tags": [
+            "DeFi",
+            "APIs"
+        ],
+        "industries": [
+            "Fintech",
+            "Consumer Finance"
+        ]
+    },
+    "31343": {
+        "id": 31343,
+        "name": "WithAI",
+        "one_liner": "Custom command centers for hedge funds",
+        "locations": "New York, NY, USA",
+        "team_size": 3,
+        "tags": [
+            "Artificial Intelligence",
+            "Team Collaboration",
+            "Investing"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31335": {
+        "id": 31335,
+        "name": "Memoir",
+        "one_liner": "AI-Native Marketing for Developer Tools",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Developer Tools",
+            "Analytics",
+            "Marketing",
+            "AI"
+        ],
+        "industries": [
+            "B2B",
+            "Marketing"
+        ]
+    },
+    "31333": {
+        "id": 31333,
+        "name": "PerfectBit",
+        "one_liner": "Training data for frontier AI labs",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Infrastructure",
+            "AI"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31332": {
+        "id": 31332,
+        "name": "Stage",
+        "one_liner": "Code review platform for AI generated code",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Developer Tools",
+            "SaaS"
+        ],
+        "industries": [
+            "B2B",
+            "Engineering, Product and Design"
+        ]
+    },
+    "31330": {
+        "id": 31330,
+        "name": "Standard Signal",
+        "one_liner": "Hedge fund where AI researches and executes every trade",
+        "locations": "New York, NY, USA",
+        "team_size": 1,
+        "tags": [
+            "Finance",
+            "AI"
+        ],
+        "industries": [
+            "Fintech",
+            "Asset Management"
+        ]
+    },
+    "31329": {
+        "id": 31329,
+        "name": "primitive",
+        "one_liner": "Communication for agents",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [
+            "Artificial Intelligence",
+            "Developer Tools",
+            "Automation",
+            "Email",
+            "Infrastructure"
+        ],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31327": {
+        "id": 31327,
+        "name": "Korso",
+        "one_liner": "The Intelligence Layer for Manufacturing.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [
+            "Artificial Intelligence",
+            "SaaS",
+            "Manufacturing"
+        ],
+        "industries": [
+            "B2B",
+            "Operations"
+        ]
+    },
+    "31326": {
+        "id": 31326,
+        "name": "Klarify",
+        "one_liner": "AI Agent for Therapists",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 4,
+        "tags": [
+            "Artificial Intelligence",
+            "Mental Health Tech",
+            "SaaS",
+            "Health Tech",
+            "B2B"
+        ],
+        "industries": [
+            "Healthcare",
+            "Healthcare IT"
+        ]
+    },
+    "31325": {
+        "id": 31325,
+        "name": "Surtr Defense Systems",
+        "one_liner": "The open operating system for counter-UAS",
+        "locations": "Los Angeles, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "Industrials",
+            "Defense"
+        ]
+    },
+    "31323": {
+        "id": 31323,
+        "name": "Hedge",
+        "one_liner": "AI-Native specialty insurance company",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Artificial Intelligence",
+            "Fintech",
+            "B2B",
+            "Insurance"
+        ],
+        "industries": [
+            "Fintech",
+            "Insurance"
+        ]
+    },
+    "31311": {
+        "id": 31311,
+        "name": "Cardinal",
+        "one_liner": "AI Platform for Precision Outbound",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 0,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31307": {
+        "id": 31307,
+        "name": "Wideframe",
+        "one_liner": "AI coworker for video editors to ship more video faster",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31306": {
+        "id": 31306,
+        "name": "Martini",
+        "one_liner": "AI Video Production for Professionals",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Engineering, Product and Design"
+        ]
+    },
+    "31303": {
+        "id": 31303,
+        "name": "Condor Energy",
+        "one_liner": "Software for enterprise energy procurement.",
+        "locations": "",
+        "team_size": 3,
+        "tags": [],
+        "industries": [
+            "Industrials",
+            "Energy"
+        ]
+    },
+    "31302": {
+        "id": 31302,
+        "name": "Remix",
+        "one_liner": "Social media content auto-generated with your existing data",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 0,
+        "tags": [],
+        "industries": [
+            "Consumer"
+        ]
+    },
+    "31300": {
+        "id": 31300,
+        "name": "Shofo",
+        "one_liner": "The World's Largest Video Library",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 4,
+        "tags": [
+            "Artificial Intelligence",
+            "Data Labeling",
+            "Infrastructure"
+        ],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31299": {
+        "id": 31299,
+        "name": "Wayco",
+        "one_liner": "AI operator for medlegal cases",
+        "locations": "New York City, NY, USA",
+        "team_size": 1,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31296": {
+        "id": 31296,
+        "name": "Unifold",
+        "one_liner": "Multi-chain deposit and payment infrastructure",
+        "locations": "New York City, NY, USA",
+        "team_size": 3,
+        "tags": [],
+        "industries": [
+            "Fintech",
+            "Payments"
+        ]
+    },
+    "31295": {
+        "id": 31295,
+        "name": "Carrot Labs",
+        "one_liner": "AI Cost Management: Track and attribute AI spend across every provider",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "AIOps",
+            "Artificial Intelligence",
+            "FinOps",
+            "B2B",
+            "AI"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31294": {
+        "id": 31294,
+        "name": "Dispatch",
+        "one_liner": "Satellites for manufacturing in space",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Manufacturing",
+            "Aerospace",
+            "Advanced Materials"
+        ],
+        "industries": [
+            "Industrials",
+            "Aviation and Space"
+        ]
+    },
+    "31293": {
+        "id": 31293,
+        "name": "Bloom",
+        "one_liner": "The brand layer for agents",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31292": {
+        "id": 31292,
+        "name": "Aurorin CAD",
+        "one_liner": "Claude code for Mechanical Engineers",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 1,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Engineering, Product and Design"
+        ]
+    },
+    "31289": {
+        "id": 31289,
+        "name": "Fixture",
+        "one_liner": "An AI-first CRM built for Startups",
+        "locations": "",
+        "team_size": 5,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Sales"
+        ]
+    },
+    "31287": {
+        "id": 31287,
+        "name": "DAIVIN!",
+        "one_liner": "Tankless Dive Gear - Breath Autonomy at Sea, Land & Space",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 1,
+        "tags": [],
+        "industries": [
+            "Industrials",
+            "Defense"
+        ]
+    },
+    "31285": {
+        "id": 31285,
+        "name": "GrazeMate",
+        "one_liner": "Robot Cowboys that Herd Cattle with AI Drones",
+        "locations": "Sydney, NSW, Australia",
+        "team_size": 3,
+        "tags": [
+            "Reinforcement Learning",
+            "Drones",
+            "Computer Vision",
+            "Agriculture"
+        ],
+        "industries": [
+            "Industrials",
+            "Agriculture"
+        ]
+    },
+    "31284": {
+        "id": 31284,
+        "name": "Origami Robotics",
+        "one_liner": "Manipulate Anything Robot",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 5,
+        "tags": [],
+        "industries": [
+            "Industrials"
+        ]
+    },
+    "31283": {
+        "id": 31283,
+        "name": "Librar Labs",
+        "one_liner": "Intelligence for cultural institutions",
+        "locations": "",
+        "team_size": 3,
+        "tags": [
+            "Artificial Intelligence",
+            "Culture"
+        ],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31280": {
+        "id": 31280,
+        "name": "Rubric AI",
+        "one_liner": "Reasoning and verification infra for AI",
+        "locations": "New York City, NY, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31279": {
+        "id": 31279,
+        "name": "Regbase",
+        "one_liner": "Tracking global laws, grants and consultations",
+        "locations": "New York, NY, USA",
+        "team_size": 3,
+        "tags": [
+            "Legal",
+            "Sales Enablement",
+            "LegalTech",
+            "Regtech"
+        ],
+        "industries": [
+            "B2B",
+            "Legal"
+        ]
+    },
+    "31278": {
+        "id": 31278,
+        "name": "Zymbly",
+        "one_liner": "Automates admin for aircraft mechanics",
+        "locations": "London, United Kingdom",
+        "team_size": 3,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31276": {
+        "id": 31276,
+        "name": "Ritivel",
+        "one_liner": "AI-native platform for Life-Sciences Documentation ",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [
+            "Generative AI",
+            "Compliance",
+            "Enterprise Software",
+            "Regtech",
+            "Biotechnology"
+        ],
+        "industries": [
+            "Healthcare",
+            "Healthcare IT"
+        ]
+    },
+    "31275": {
+        "id": 31275,
+        "name": "Polymorph",
+        "one_liner": "Personalization infra that improves retention, LTV, and CAC",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31274": {
+        "id": 31274,
+        "name": "Pollinate",
+        "one_liner": "AI Agents for the supply chain.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Supply Chain and Logistics"
+        ]
+    },
+    "31273": {
+        "id": 31273,
+        "name": "SpotPay",
+        "one_liner": "Stablecoin Global Bank Account",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "Fintech",
+            "Consumer Finance"
+        ]
+    },
+    "31271": {
+        "id": 31271,
+        "name": "VOYGR",
+        "one_liner": "Real-world place intelligence for AI apps and agents",
+        "locations": "",
+        "team_size": null,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31269": {
+        "id": 31269,
+        "name": "MochaCare",
+        "one_liner": "Agentic Management Service for Care Organizations",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Operations"
+        ]
+    },
+    "31264": {
+        "id": 31264,
+        "name": "Vela",
+        "one_liner": "AI Agents For Complex Scheduling Coordination",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 4,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31263": {
+        "id": 31263,
+        "name": "Supafax",
+        "one_liner": "AI assistant for your email and calendar",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "B2B",
+            "Productivity",
+            "Calendar",
+            "Email",
+            "AI Assistant"
+        ],
+        "industries": [
+            "B2B",
+            "Productivity"
+        ]
+    },
+    "31262": {
+        "id": 31262,
+        "name": "Talking Computers",
+        "one_liner": "AI for AI Infrastructure",
+        "locations": "",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31261": {
+        "id": 31261,
+        "name": "Control Seat",
+        "one_liner": "Control and Monitoring of Industrial Operations",
+        "locations": "",
+        "team_size": 2,
+        "tags": [
+            "Workflow Automation",
+            "Monitoring",
+            "Industrial"
+        ],
+        "industries": [
+            "Industrials"
+        ]
+    },
+    "31260": {
+        "id": 31260,
+        "name": "Copperlane",
+        "one_liner": "Agentic Mortgage Origination",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Finance and Accounting"
+        ]
+    },
+    "31259": {
+        "id": 31259,
+        "name": "Tsenta",
+        "one_liner": "We match you with jobs and apply automatically",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Artificial Intelligence",
+            "Consumer",
+            "Recruiting",
+            "HR Tech"
+        ],
+        "industries": [
+            "Consumer",
+            "Job and Career Services"
+        ]
+    },
+    "31256": {
+        "id": 31256,
+        "name": "Canary",
+        "one_liner": "The first AI QA engineer that understands your code",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Engineering, Product and Design"
+        ]
+    },
+    "31255": {
+        "id": 31255,
+        "name": "Grade",
+        "one_liner": "API for performance-based payroll",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Artificial Intelligence",
+            "Fintech",
+            "Payments",
+            "Payroll"
+        ],
+        "industries": [
+            "Fintech"
+        ]
+    },
+    "31254": {
+        "id": 31254,
+        "name": "Sila",
+        "one_liner": "AI Work Messaging & Collaboration Platform",
+        "locations": "",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Productivity"
+        ]
+    },
+    "31253": {
+        "id": 31253,
+        "name": "Maven",
+        "one_liner": "Payments Infrastructure for Voice Agents",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31252": {
+        "id": 31252,
+        "name": "Moda",
+        "one_liner": "The monitoring layer your AI agents need.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31250": {
+        "id": 31250,
+        "name": "The Token Company",
+        "one_liner": "Compression middleware that improves LLM outputs",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31248": {
+        "id": 31248,
+        "name": "BeeSafe AI",
+        "one_liner": "Frontier AI Defenses for Social Engineering Attacks",
+        "locations": "",
+        "team_size": 3,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Security"
+        ]
+    },
+    "31247": {
+        "id": 31247,
+        "name": "Fed10",
+        "one_liner": "AI Agents for Government Affairs",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Legal"
+        ]
+    },
+    "31246": {
+        "id": 31246,
+        "name": "Inth",
+        "one_liner": "Privacy compliance, enforced in code",
+        "locations": "London, England, United Kingdom",
+        "team_size": 3,
+        "tags": [
+            "Developer Tools",
+            "Compliance",
+            "Open Source",
+            "Web Development"
+        ],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31245": {
+        "id": 31245,
+        "name": "Squid",
+        "one_liner": "AI agents for power grid planning  \ud83e\udd91 ",
+        "locations": "London, United Kingdom",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "Industrials",
+            "Energy"
+        ]
+    },
+    "31244": {
+        "id": 31244,
+        "name": "Crow",
+        "one_liner": "AI for Commercial Real Estate",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31243": {
+        "id": 31243,
+        "name": "Foreman",
+        "one_liner": "Keeping contractors on the job site, not behind a desk.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "Real Estate and Construction"
+        ]
+    },
+    "31242": {
+        "id": 31242,
+        "name": "Booko",
+        "one_liner": "Dynamically pricing the whole economy. ",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31241": {
+        "id": 31241,
+        "name": "Corelayer",
+        "one_liner": "AI on-call engineer for data-heavy, regulated industries",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [
+            "Artificial Intelligence",
+            "Developer Tools",
+            "B2B",
+            "Enterprise Software"
+        ],
+        "industries": [
+            "B2B",
+            "Engineering, Product and Design"
+        ]
+    },
+    "31240": {
+        "id": 31240,
+        "name": "General Legal",
+        "one_liner": "The AI native law firm for growth stage companies",
+        "locations": "",
+        "team_size": 15,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Legal"
+        ]
+    },
+    "31239": {
+        "id": 31239,
+        "name": "Fort",
+        "one_liner": "Strength Tracking Wearable",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [],
+        "industries": [
+            "Consumer",
+            "Consumer Electronics"
+        ]
+    },
+    "31236": {
+        "id": 31236,
+        "name": "Balance",
+        "one_liner": "Full-Stack AI Accounting",
+        "locations": "London, United Kingdom",
+        "team_size": 4,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Finance and Accounting"
+        ]
+    },
+    "31233": {
+        "id": 31233,
+        "name": "Chasi",
+        "one_liner": "AI Revenue Engine for the Equipment Industry ",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31232": {
+        "id": 31232,
+        "name": "Remy AI",
+        "one_liner": "Documenting human dexterity ",
+        "locations": "",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "Industrials",
+            "Manufacturing and Robotics"
+        ]
+    },
+    "31231": {
+        "id": 31231,
+        "name": "Glue",
+        "one_liner": "The Interface Design Canvas for AI agents",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Developer Tools",
+            "Design Tools"
+        ],
+        "industries": [
+            "B2B",
+            "Engineering, Product and Design"
+        ]
+    },
+    "31230": {
+        "id": 31230,
+        "name": "o11",
+        "one_liner": "The AI Agent Inside Every Enterprise App",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Finance and Accounting"
+        ]
+    },
+    "31229": {
+        "id": 31229,
+        "name": "Doomersion",
+        "one_liner": "Doomscroll to learn languages",
+        "locations": "San Francisco, CA, USA; Remote",
+        "team_size": 4,
+        "tags": [],
+        "industries": [
+            "Consumer"
+        ]
+    },
+    "31227": {
+        "id": 31227,
+        "name": "Sequence Markets",
+        "one_liner": "Low-latency execution across crypto, prediction, and tokenized assets",
+        "locations": "",
+        "team_size": 5,
+        "tags": [],
+        "industries": [
+            "Fintech"
+        ]
+    },
+    "31225": {
+        "id": 31225,
+        "name": "Ditto Biosciences",
+        "one_liner": "Evolutionary intelligence for autoimmune disease",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [],
+        "industries": [
+            "Healthcare",
+            "Drug Discovery and Delivery"
+        ]
+    },
+    "31224": {
+        "id": 31224,
+        "name": "Servo7",
+        "one_liner": "Robots that 10x manual industry work",
+        "locations": "",
+        "team_size": null,
+        "tags": [],
+        "industries": [
+            "Industrials",
+            "Manufacturing and Robotics"
+        ]
+    },
+    "31223": {
+        "id": 31223,
+        "name": "Datoric",
+        "one_liner": "Responsibly sourced data for multimodal AI",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Data Labeling",
+            "AI",
+            "ML"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31222": {
+        "id": 31222,
+        "name": "Superset",
+        "one_liner": "The IDE for the AI Agents Era",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Engineering, Product and Design"
+        ]
+    },
+    "31221": {
+        "id": 31221,
+        "name": "Netter",
+        "one_liner": "Data Science Autopilot for the real economy. ",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 4,
+        "tags": [
+            "Workflow Automation",
+            "Big Data",
+            "AI",
+            "ML"
+        ],
+        "industries": [
+            "B2B",
+            "Analytics"
+        ]
+    },
+    "31219": {
+        "id": 31219,
+        "name": "Voxel Energy",
+        "one_liner": "Energy independent data centers with solar and repurposed batteries. ",
+        "locations": "",
+        "team_size": 3,
+        "tags": [
+            "Artificial Intelligence",
+            "Hardware",
+            "Solar Power",
+            "Energy",
+            "Renewable Energy"
+        ],
+        "industries": [
+            "Industrials",
+            "Energy"
+        ]
+    },
+    "31217": {
+        "id": 31217,
+        "name": "Polymath",
+        "one_liner": "Simulation environments to train & evaluate long-horizon AI agents",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31216": {
+        "id": 31216,
+        "name": "Archal",
+        "one_liner": "The eval platform for autonomous software",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Developer Tools",
+            "API",
+            "Infrastructure",
+            "AI"
+        ],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31215": {
+        "id": 31215,
+        "name": "Bubble Lab",
+        "one_liner": "Prompt once, automate forever.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Workflow Automation",
+            "Automation",
+            "Operations",
+            "AI"
+        ],
+        "industries": [
+            "B2B",
+            "Operations"
+        ]
+    },
+    "31214": {
+        "id": 31214,
+        "name": "Pocket",
+        "one_liner": "Take Notes in the Real World",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 6,
+        "tags": [],
+        "industries": [
+            "Consumer"
+        ]
+    },
+    "31213": {
+        "id": 31213,
+        "name": "Byteport",
+        "one_liner": "Global upload acceleration for 1GB-100TB files.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31212": {
+        "id": 31212,
+        "name": "Constellation Space",
+        "one_liner": "AI operating system for mega-scale satellite networks. ",
+        "locations": "Seattle, WA, USA",
+        "team_size": 4,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Analytics"
+        ]
+    },
+    "31211": {
+        "id": 31211,
+        "name": "Sazabi",
+        "one_liner": "The AI-native observability platform for fast-moving engineering\u2026",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 10,
+        "tags": [
+            "Developer Tools"
+        ],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31210": {
+        "id": 31210,
+        "name": "Mendral",
+        "one_liner": "AI DevOps Engineer",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31209": {
+        "id": 31209,
+        "name": "AxionOrbital Space",
+        "one_liner": "Foundation models for 24/7 Earth Observation",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "Industrials",
+            "Aviation and Space"
+        ]
+    },
+    "31208": {
+        "id": 31208,
+        "name": "Oximy",
+        "one_liner": "See and control all AI activity across your enterprise",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 4,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31207": {
+        "id": 31207,
+        "name": "Caretta",
+        "one_liner": "Realtime AI for Sales Calls",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 4,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Sales"
+        ]
+    },
+    "31206": {
+        "id": 31206,
+        "name": "Samora AI",
+        "one_liner": "Multilingual voice agents that outperform humans",
+        "locations": "",
+        "team_size": 8,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31205": {
+        "id": 31205,
+        "name": "Human Archive",
+        "one_liner": "Multimodal data provider for robotics and world modeling",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 4,
+        "tags": [],
+        "industries": [
+            "Industrials",
+            "Manufacturing and Robotics"
+        ]
+    },
+    "31204": {
+        "id": 31204,
+        "name": "Forum",
+        "one_liner": "The first exchange to trade on attention.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "Fintech"
+        ]
+    },
+    "31203": {
+        "id": 31203,
+        "name": "Sitefire",
+        "one_liner": "Marketing suite for the agentic web",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Marketing"
+        ]
+    },
+    "31201": {
+        "id": 31201,
+        "name": "Robby",
+        "one_liner": "AI agents that grow revenue for home services businesses",
+        "locations": "Boston, MA, USA",
+        "team_size": 3,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Productivity"
+        ]
+    },
+    "31200": {
+        "id": 31200,
+        "name": "Ressl AI",
+        "one_liner": "AI Workers for Field Services",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 4,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31199": {
+        "id": 31199,
+        "name": "Emdash",
+        "one_liner": "Open-source Agentic Development Environment",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Productivity"
+        ]
+    },
+    "31197": {
+        "id": 31197,
+        "name": "InventoryQuant",
+        "one_liner": "We automate the inventory process in insurance",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 1,
+        "tags": [
+            "Insurance",
+            "AI"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31196": {
+        "id": 31196,
+        "name": "Congruent",
+        "one_liner": "AI native radars for self-driving cars",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "Industrials"
+        ]
+    },
+    "31195": {
+        "id": 31195,
+        "name": "Reframe",
+        "one_liner": "AI-native, hardware procurement marketplace",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 1,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Engineering, Product and Design"
+        ]
+    },
+    "31194": {
+        "id": 31194,
+        "name": "Valence",
+        "one_liner": "Unified prediction markets trading platform",
+        "locations": "",
+        "team_size": 3,
+        "tags": [],
+        "industries": [
+            "Fintech",
+            "Consumer Finance"
+        ]
+    },
+    "31193": {
+        "id": 31193,
+        "name": "9 Mothers",
+        "one_liner": "AI weapon systems",
+        "locations": "",
+        "team_size": null,
+        "tags": [],
+        "industries": [
+            "Industrials",
+            "Defense"
+        ]
+    },
+    "31192": {
+        "id": 31192,
+        "name": "Approxima",
+        "one_liner": "Your software should build itself.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Enterprise Software",
+            "Infrastructure",
+            "AI"
+        ],
+        "industries": [
+            "B2B",
+            "Engineering, Product and Design"
+        ]
+    },
+    "31191": {
+        "id": 31191,
+        "name": "Traverse",
+        "one_liner": "Research lab solving non-verifiable work",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 1,
+        "tags": [
+            "Machine Learning",
+            "Reinforcement Learning",
+            "AI"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31189": {
+        "id": 31189,
+        "name": "Revion",
+        "one_liner": "Intelligence for Automotive Operations",
+        "locations": "",
+        "team_size": 4,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31188": {
+        "id": 31188,
+        "name": "Maywood",
+        "one_liner": "The first finance-compliant proactive AI that runs 24/7",
+        "locations": "New York City, NY, USA",
+        "team_size": 5,
+        "tags": [],
+        "industries": [
+            "Fintech",
+            "Banking and Exchange"
+        ]
+    },
+    "31187": {
+        "id": 31187,
+        "name": "Fenrock AI",
+        "one_liner": "AI agents for banking back office",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "Fintech",
+            "Banking and Exchange"
+        ]
+    },
+    "31186": {
+        "id": 31186,
+        "name": "End Close",
+        "one_liner": "AI powered reconciliation for high-volume payments companies",
+        "locations": "",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Finance and Accounting"
+        ]
+    },
+    "31185": {
+        "id": 31185,
+        "name": "Chamber",
+        "one_liner": "The AIOps Agent for ML Teams",
+        "locations": "Seattle, WA, USA",
+        "team_size": 4,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31183": {
+        "id": 31183,
+        "name": "Patientdesk.ai",
+        "one_liner": "AI front & back office agent for dental practices ",
+        "locations": "",
+        "team_size": 5,
+        "tags": [],
+        "industries": [
+            "Healthcare",
+            "Healthcare IT"
+        ]
+    },
+    "31182": {
+        "id": 31182,
+        "name": "Visibl Semiconductors",
+        "one_liner": "A faster, lower cost path to custom silicon",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Engineering, Product and Design"
+        ]
+    },
+    "31181": {
+        "id": 31181,
+        "name": "Synthetic Sciences",
+        "one_liner": "Claude Code for Scientific Research",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Engineering, Product and Design"
+        ]
+    },
+    "31180": {
+        "id": 31180,
+        "name": "Seeing Systems",
+        "one_liner": "Modular AI-Commanded Drones for Defence",
+        "locations": "London, United Kingdom",
+        "team_size": 2,
+        "tags": [
+            "Artificial Intelligence",
+            "Hardware",
+            "Drones",
+            "Aerospace"
+        ],
+        "industries": [
+            "Industrials",
+            "Defense"
+        ]
+    },
+    "31179": {
+        "id": 31179,
+        "name": "Jinba",
+        "one_liner": "Automate enterprise workflows through chat",
+        "locations": "",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31178": {
+        "id": 31178,
+        "name": "Cardboard",
+        "one_liner": "Agentic video editor",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31177": {
+        "id": 31177,
+        "name": "Prana",
+        "one_liner": "An AI primary care doctor in your pocket",
+        "locations": "",
+        "team_size": 4,
+        "tags": [],
+        "industries": [
+            "Healthcare",
+            "Consumer Health and Wellness"
+        ]
+    },
+    "31176": {
+        "id": 31176,
+        "name": "Rhizome AI",
+        "one_liner": "Agent Platform for Life Sciences",
+        "locations": "Remote",
+        "team_size": 1,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31175": {
+        "id": 31175,
+        "name": "Pax Historia",
+        "one_liner": "The first AI-powered grand strategy platform",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [],
+        "industries": [
+            "Consumer",
+            "Gaming"
+        ]
+    },
+    "31174": {
+        "id": 31174,
+        "name": "Hex Security",
+        "one_liner": "Agentic Offensive Security at Scale",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Security"
+        ]
+    },
+    "31173": {
+        "id": 31173,
+        "name": "Laurence",
+        "one_liner": "Hedge fund for ads",
+        "locations": "New York City, NY, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Analytics"
+        ]
+    },
+    "31172": {
+        "id": 31172,
+        "name": "Terminal Use",
+        "one_liner": "Vercel for background agents",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 4,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31171": {
+        "id": 31171,
+        "name": "Overshoot",
+        "one_liner": "AI Infra for real-time vision applications",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 5,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31170": {
+        "id": 31170,
+        "name": "Cajal",
+        "one_liner": "Scaling formal verification to accelerate scientific discovery",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31169": {
+        "id": 31169,
+        "name": "Proximitty",
+        "one_liner": "AI operating system for commercial loans",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "Fintech",
+            "Credit and Lending"
+        ]
+    },
+    "31168": {
+        "id": 31168,
+        "name": "Instinct",
+        "one_liner": "Trade your instinct",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 5,
+        "tags": [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Trading",
+            "Cryptocurrency"
+        ],
+        "industries": [
+            "Fintech"
+        ]
+    },
+    "31167": {
+        "id": 31167,
+        "name": "Stilta",
+        "one_liner": "Agentic AI for intellectual property",
+        "locations": "",
+        "team_size": 4,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31166": {
+        "id": 31166,
+        "name": "Unisson",
+        "one_liner": "AI agents that automate B2B software implementation",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Productivity"
+        ]
+    },
+    "31165": {
+        "id": 31165,
+        "name": "IncidentFox",
+        "one_liner": "AI SRE agent that triages, coordinates, and fixes production incidents",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "AIOps",
+            "Artificial Intelligence",
+            "Developer Tools"
+        ],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31164": {
+        "id": 31164,
+        "name": "Compresr",
+        "one_liner": "LLM context compression for better accuracy",
+        "locations": "",
+        "team_size": 4,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31163": {
+        "id": 31163,
+        "name": "Opalite Health",
+        "one_liner": "Helping Healthcare Providers Speak Any Language ",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [],
+        "industries": [
+            "Healthcare"
+        ]
+    },
+    "31162": {
+        "id": 31162,
+        "name": "Confluence Labs",
+        "one_liner": "AI models that learn from experience",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31160": {
+        "id": 31160,
+        "name": "Mango Medical",
+        "one_liner": "Foundation models for planning orthopedic surgery",
+        "locations": "",
+        "team_size": 3,
+        "tags": [],
+        "industries": [
+            "Healthcare",
+            "Healthcare IT"
+        ]
+    },
+    "31159": {
+        "id": 31159,
+        "name": "Sponge",
+        "one_liner": "Financial infrastructure for the agent economy",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31158": {
+        "id": 31158,
+        "name": "Terranox AI",
+        "one_liner": "The first AI-powered uranium discovery company",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "Industrials",
+            "Energy"
+        ]
+    },
+    "31157": {
+        "id": 31157,
+        "name": "Drafted",
+        "one_liner": "Design your home instantly with AI",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 9,
+        "tags": [
+            "Machine Learning",
+            "Real Estate",
+            "Design",
+            "Architecture",
+            "AI"
+        ],
+        "industries": [
+            "Consumer"
+        ]
+    },
+    "31156": {
+        "id": 31156,
+        "name": "Ventura",
+        "one_liner": "AI Workforce for Distributors and Manufacturers",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "Industrials"
+        ]
+    },
+    "31154": {
+        "id": 31154,
+        "name": "Orthogonal",
+        "one_liner": "Agentic Payments for APIs",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31153": {
+        "id": 31153,
+        "name": "Perfectly",
+        "one_liner": "The AI-native Recruiting OS",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31152": {
+        "id": 31152,
+        "name": "Fern",
+        "one_liner": "Enabling physical AI at scale.",
+        "locations": "",
+        "team_size": 2,
+        "tags": [
+            "Robotics",
+            "Infrastructure"
+        ],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31151": {
+        "id": 31151,
+        "name": "Sparkles",
+        "one_liner": "Make everyone on your team an engineer",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 1,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Engineering, Product and Design"
+        ]
+    },
+    "31149": {
+        "id": 31149,
+        "name": "EigenPal",
+        "one_liner": "AI Document Workflows for Enterprises",
+        "locations": "San Francisco, CA, USA",
+        "team_size": null,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Operations"
+        ]
+    },
+    "31147": {
+        "id": 31147,
+        "name": "Salus",
+        "one_liner": "Guardrails to validate your agent's actions before they execute",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Developer Tools",
+            "B2B",
+            "API",
+            "Infrastructure",
+            "AI"
+        ],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31146": {
+        "id": 31146,
+        "name": "Moritz",
+        "one_liner": "Global AI-native law firm handling legal work with same-day turnaround",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 10,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Legal"
+        ]
+    },
+    "31145": {
+        "id": 31145,
+        "name": "RamAIn",
+        "one_liner": "Automate any UI task with natural language",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 4,
+        "tags": [
+            "Artificial Intelligence",
+            "Robotic Process Automation",
+            "Automation"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31144": {
+        "id": 31144,
+        "name": "Milliray",
+        "one_liner": "Technology to detect and track small drones",
+        "locations": "London, United Kingdom",
+        "team_size": 3,
+        "tags": [],
+        "industries": [
+            "Industrials",
+            "Drones"
+        ]
+    },
+    "31142": {
+        "id": 31142,
+        "name": "Beyond Reach Labs",
+        "one_liner": "Space solar arrays that grow to the size of a football field in orbit",
+        "locations": "",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "Industrials",
+            "Aviation and Space"
+        ]
+    },
+    "31141": {
+        "id": 31141,
+        "name": "OctaPulse",
+        "one_liner": "CV and robotics to automate quality inspection in fish farms",
+        "locations": "",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "Industrials",
+            "Climate"
+        ]
+    },
+    "31140": {
+        "id": 31140,
+        "name": "CodeWisp",
+        "one_liner": "Anyone can create real games with AI",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [],
+        "industries": [
+            "Consumer",
+            "Gaming"
+        ]
+    },
+    "31139": {
+        "id": 31139,
+        "name": "Ashr",
+        "one_liner": "Automated Multi-Modal Testing for Agents",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Engineering, Product and Design"
+        ]
+    },
+    "31138": {
+        "id": 31138,
+        "name": "Aemon",
+        "one_liner": "The Forward-Deployed AI Research Engineer ",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31137": {
+        "id": 31137,
+        "name": "Luel",
+        "one_liner": "Turning everyday words and actions into usable training data.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31136": {
+        "id": 31136,
+        "name": "Scheduling Wizard",
+        "one_liner": "Logistics infrastructure to modernize healthcare operations",
+        "locations": "",
+        "team_size": 3,
+        "tags": [],
+        "industries": [
+            "Healthcare",
+            "Healthcare IT"
+        ]
+    },
+    "31135": {
+        "id": 31135,
+        "name": "RoboDock",
+        "one_liner": "Robots that run autonomous depots for autonomous fleets.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "Industrials",
+            "Energy"
+        ]
+    },
+    "31133": {
+        "id": 31133,
+        "name": "Skillsync",
+        "one_liner": "Hire engineers based on what they\u2019ve shipped",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Human Resources"
+        ]
+    },
+    "31132": {
+        "id": 31132,
+        "name": "MouseCat",
+        "one_liner": "AI-powered fraud investigations",
+        "locations": "New York City, NY, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31131": {
+        "id": 31131,
+        "name": "Zatanna",
+        "one_liner": "Turning all software into agent-first APIs",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Engineering, Product and Design"
+        ]
+    },
+    "31130": {
+        "id": 31130,
+        "name": "AutoSitu",
+        "one_liner": "AI-native workspace for development plan reviews",
+        "locations": "",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Legal"
+        ]
+    },
+    "31129": {
+        "id": 31129,
+        "name": "Verdex",
+        "one_liner": "AI Verification for Insurance",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "Fintech",
+            "Insurance"
+        ]
+    },
+    "31128": {
+        "id": 31128,
+        "name": "Cumulus Labs",
+        "one_liner": "The Fastest Multimodal Inference OS",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31127": {
+        "id": 31127,
+        "name": "Tepali",
+        "one_liner": "AI-native operating system for aesthetics & wellness",
+        "locations": "New York City, NY, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31126": {
+        "id": 31126,
+        "name": "Palus Finance",
+        "one_liner": "40% higher yields on company cash, in under 5 minutes.",
+        "locations": "",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "Fintech"
+        ]
+    },
+    "31123": {
+        "id": 31123,
+        "name": "21st",
+        "one_liner": "Infrastructure and UI building blocks for the agentic internet",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Engineering, Product and Design"
+        ]
+    },
+    "31121": {
+        "id": 31121,
+        "name": "Avoice",
+        "one_liner": "Harvey for Architecture",
+        "locations": "",
+        "team_size": 4,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31120": {
+        "id": 31120,
+        "name": "Kyten Technologies",
+        "one_liner": "Custom Aerospace-Grade Battery Packs",
+        "locations": "Seattle, WA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "Industrials",
+            "Manufacturing and Robotics"
+        ]
+    },
+    "31119": {
+        "id": 31119,
+        "name": "ZeroSettle",
+        "one_liner": "Drop-in Direct Billing SDK for In-App Purchases",
+        "locations": "",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "Fintech",
+            "Payments"
+        ]
+    },
+    "31118": {
+        "id": 31118,
+        "name": "Carson",
+        "one_liner": "Carson is a desktop AI app that generates custom, sharable workspaces",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 4,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31117": {
+        "id": 31117,
+        "name": "Cignara",
+        "one_liner": "AI agents for sales & customer support at large Fortune 500 companies",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 4,
+        "tags": [
+            "AI",
+            "AI Assistant"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31116": {
+        "id": 31116,
+        "name": "OpenSpec",
+        "one_liner": "Plan mode for complex features",
+        "locations": "",
+        "team_size": null,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31114": {
+        "id": 31114,
+        "name": "Piris Labs",
+        "one_liner": "Inference at Light Speed",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 4,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31113": {
+        "id": 31113,
+        "name": "CellType",
+        "one_liner": "The agentic drug company. We simulate human biology.",
+        "locations": "New York City, NY, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "Healthcare",
+            "Drug Discovery and Delivery"
+        ]
+    },
+    "31112": {
+        "id": 31112,
+        "name": "Burt",
+        "one_liner": "AI teammates for logistics",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Supply Chain and Logistics"
+        ]
+    },
+    "31111": {
+        "id": 31111,
+        "name": "Envariant",
+        "one_liner": "Interpretability and reasoning infra for foundation models.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 1,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31110": {
+        "id": 31110,
+        "name": "Cascade",
+        "one_liner": "Distilling Proprietary Intelligence",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31109": {
+        "id": 31109,
+        "name": "Beacon Health",
+        "one_liner": "AI Employees for Primary Care",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "Healthcare"
+        ]
+    },
+    "31108": {
+        "id": 31108,
+        "name": "Strand AI",
+        "one_liner": "Multimodal foundation models to predict uncollected patient biology",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "Healthcare",
+            "Drug Discovery and Delivery"
+        ]
+    },
+    "31107": {
+        "id": 31107,
+        "name": "BaseFrame",
+        "one_liner": "Detect what AI can automate for your team",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31106": {
+        "id": 31106,
+        "name": "Protent",
+        "one_liner": "Real time intelligence for law enforcement & security teams.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Security"
+        ]
+    },
+    "31104": {
+        "id": 31104,
+        "name": "Cofia",
+        "one_liner": "AI automations that implement themselves",
+        "locations": "New York City, NY, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Productivity"
+        ]
+    },
+    "31102": {
+        "id": 31102,
+        "name": "Fuchsia",
+        "one_liner": "Hardware compliance done on your timeline",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [
+            "Hardware",
+            "Robotics",
+            "Compliance",
+            "AI",
+            "Industrial"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31101": {
+        "id": 31101,
+        "name": "LegalOS",
+        "one_liner": "The AI-Native Immigration Law Firm",
+        "locations": "San Francisco, CA, USA; Remote",
+        "team_size": 3,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Legal"
+        ]
+    },
+    "31100": {
+        "id": 31100,
+        "name": "Sentrial",
+        "one_liner": "Datadog for Agent Reliability",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Engineering, Product and Design"
+        ]
+    },
+    "31098": {
+        "id": 31098,
+        "name": "10x Science",
+        "one_liner": "The AI-native platform for next-generation protein characterization.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [
+            "SaaS",
+            "B2B",
+            "Biotech",
+            "AI"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31097": {
+        "id": 31097,
+        "name": "REV1",
+        "one_liner": "Claude Code for Mechanical Engineers",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Engineering, Product and Design"
+        ]
+    },
+    "31096": {
+        "id": 31096,
+        "name": "shortkit",
+        "one_liner": "Media infra for consumer apps",
+        "locations": "",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Engineering, Product and Design"
+        ]
+    },
+    "31095": {
+        "id": 31095,
+        "name": "Asimov",
+        "one_liner": "Real-world human movement data for humanoid robots",
+        "locations": "San Francisco, CA, USA; Remote",
+        "team_size": 3,
+        "tags": [],
+        "industries": [
+            "Industrials",
+            "Manufacturing and Robotics"
+        ]
+    },
+    "31094": {
+        "id": 31094,
+        "name": "Lexius",
+        "one_liner": "AI for Corporate Security Cameras",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Security"
+        ]
+    },
+    "31092": {
+        "id": 31092,
+        "name": "Axis",
+        "one_liner": "An AI Copilot for Trading Desks",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "Fintech"
+        ]
+    },
+    "31091": {
+        "id": 31091,
+        "name": "Sonarly",
+        "one_liner": "Makes software self-healing",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Engineering, Product and Design"
+        ]
+    },
+    "31090": {
+        "id": 31090,
+        "name": "Docura Health",
+        "one_liner": "AI-Native Med-Legal Firm",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [],
+        "industries": [
+            "Healthcare"
+        ]
+    },
+    "31089": {
+        "id": 31089,
+        "name": "Lance",
+        "one_liner": "AI Agents That Run Hotel Operations.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 10,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31088": {
+        "id": 31088,
+        "name": "RunAnywhere",
+        "one_liner": "The default way of running on-device AI at Scale",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31087": {
+        "id": 31087,
+        "name": "Lucent",
+        "one_liner": "AI that automatically improves products from user behavior",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "31085": {
+        "id": 31085,
+        "name": "Ruma Care",
+        "one_liner": "The operations stack for biologic infusion clinics",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "Healthcare"
+        ]
+    },
+    "31084": {
+        "id": 31084,
+        "name": "Klaus AI",
+        "one_liner": "Fast and Safe OpenClaw on the cloud",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31083": {
+        "id": 31083,
+        "name": "Kita",
+        "one_liner": "Automate credit review for lenders in emerging markets",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Fintech",
+            "Computer Vision",
+            "Lending",
+            "Emerging Markets"
+        ],
+        "industries": [
+            "Fintech"
+        ]
+    },
+    "31082": {
+        "id": 31082,
+        "name": "Syntropy",
+        "one_liner": "The agentic coding app for complex tasks.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Productivity"
+        ]
+    },
+    "31081": {
+        "id": 31081,
+        "name": "One Robot",
+        "one_liner": "World models for robot evals and training.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "Industrials",
+            "Manufacturing and Robotics"
+        ]
+    },
+    "31080": {
+        "id": 31080,
+        "name": "Didit",
+        "one_liner": "Infrastructure for identity and fraud.",
+        "locations": "",
+        "team_size": 12,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31077": {
+        "id": 31077,
+        "name": "Panta",
+        "one_liner": "AI Native Commercial Insurance Brokerage ",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [],
+        "industries": [
+            "Fintech",
+            "Insurance"
+        ]
+    },
+    "31076": {
+        "id": 31076,
+        "name": "Imperfect",
+        "one_liner": "AI coach for athletes with real lives and epic goals",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 5,
+        "tags": [
+            "Digital Health",
+            "Health & Wellness",
+            "AI",
+            "AI Assistant"
+        ],
+        "industries": [
+            "Consumer"
+        ]
+    },
+    "31066": {
+        "id": 31066,
+        "name": "Payna",
+        "one_liner": " AI Licensing Agent for Regulated Industries",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Finance and Accounting"
+        ]
+    },
+    "31064": {
+        "id": 31064,
+        "name": "Origin",
+        "one_liner": "AI and Data for Cancer Therapeutics",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 4,
+        "tags": [],
+        "industries": [
+            "Healthcare",
+            "Drug Discovery and Delivery"
+        ]
+    },
+    "31063": {
+        "id": 31063,
+        "name": "Clara",
+        "one_liner": "AI primary care doctor",
+        "locations": "",
+        "team_size": 9,
+        "tags": [],
+        "industries": [
+            "Healthcare",
+            "Consumer Health and Wellness"
+        ]
+    },
+    "31062": {
+        "id": 31062,
+        "name": "Hlabs",
+        "one_liner": "US-Made Parts for Robots",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 1,
+        "tags": [],
+        "industries": [
+            "Industrials"
+        ]
+    },
+    "31058": {
+        "id": 31058,
+        "name": "Eos AI",
+        "one_liner": "Autonomous OS for healthcare",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "Healthcare"
+        ]
+    },
+    "31057": {
+        "id": 31057,
+        "name": "Valgo",
+        "one_liner": "Insurance risk layer for physical AI",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Engineering, Product and Design"
+        ]
+    },
+    "31054": {
+        "id": 31054,
+        "name": "ARC Prize Foundation",
+        "one_liner": "AI benchmarks that measure general intelligence and inspire new ideas",
+        "locations": "San Francisco, CA, USA; Remote",
+        "team_size": 4,
+        "tags": [],
+        "industries": [
+            "Industrials"
+        ]
+    },
+    "31051": {
+        "id": 31051,
+        "name": "Corvera",
+        "one_liner": "The context layer for AI-native CPG brands",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 4,
+        "tags": [
+            "Artificial Intelligence",
+            "SaaS",
+            "Consumer",
+            "B2B",
+            "Data Engineering"
+        ],
+        "industries": [
+            "B2B",
+            "Operations"
+        ]
+    },
+    "31048": {
+        "id": 31048,
+        "name": "FullSeam",
+        "one_liner": "AI agents for corporate accounting teams",
+        "locations": "",
+        "team_size": 3,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Finance and Accounting"
+        ]
+    },
+    "31043": {
+        "id": 31043,
+        "name": "Advanced Metal Research",
+        "one_liner": "Machine intelligence for American Welding",
+        "locations": "Los Angeles, CA, USA",
+        "team_size": 3,
+        "tags": [
+            "Hardware",
+            "Robotics",
+            "Manufacturing"
+        ],
+        "industries": [
+            "Industrials",
+            "Manufacturing and Robotics"
+        ]
+    },
+    "31040": {
+        "id": 31040,
+        "name": "CatchBack Cards",
+        "one_liner": "The most thrilling way to create and rip digital collectible packs",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "Consumer",
+            "Gaming"
+        ]
+    },
+    "31036": {
+        "id": 31036,
+        "name": "Mantis",
+        "one_liner": "Digital Twins of humans",
+        "locations": "New York City, NY, USA",
+        "team_size": 3,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "31030": {
+        "id": 31030,
+        "name": "Haladir",
+        "one_liner": "Operational Superintelligence for Global Logistics",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 4,
+        "tags": [
+            "Logistics",
+            "Supply Chain",
+            "Data Engineering",
+            "Operations",
+            "AI"
+        ],
+        "industries": [
+            "B2B",
+            "Operations"
+        ]
+    },
+    "31025": {
+        "id": 31025,
+        "name": "ClaimGlide",
+        "one_liner": "AI automated prior-auths for private medical practices",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 1,
+        "tags": [
+            "Digital Health",
+            "Healthcare",
+            "AI",
+            "AI Assistant"
+        ],
+        "industries": [
+            "Healthcare",
+            "Healthcare Services"
+        ]
+    },
+    "31023": {
+        "id": 31023,
+        "name": "Inviscid AI",
+        "one_liner": "Real-time Physics Simulations for Industrial Facilities & Data Centers",
+        "locations": "Remote",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "Industrials",
+            "Energy"
+        ]
+    },
+    "31019": {
+        "id": 31019,
+        "name": "Ndea",
+        "one_liner": "Building AGI that can innovate.",
+        "locations": "Remote",
+        "team_size": 15,
+        "tags": [
+            "Artificial Intelligence",
+            "Deep Learning",
+            "Hard Tech",
+            "Remote Work",
+            "ML"
+        ],
+        "industries": [
+            "Industrials"
+        ]
+    },
+    "31016": {
+        "id": 31016,
+        "name": "Crosslayer Labs",
+        "one_liner": "Protect, monitor and defend your Internet presence",
+        "locations": "New York City, NY, USA",
+        "team_size": 3,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Security"
+        ]
+    },
+    "31003": {
+        "id": 31003,
+        "name": "Voltair",
+        "one_liner": "Autonomous Drones for Earth Observation",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 5,
+        "tags": [],
+        "industries": [
+            "Industrials",
+            "Drones"
+        ]
+    },
+    "31000": {
+        "id": 31000,
+        "name": "Vector Legal",
+        "one_liner": "The premier AI-native law firm & legal operating system for Startups.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 5,
+        "tags": [
+            "Artificial Intelligence",
+            "Legal",
+            "LegalTech",
+            "Operations"
+        ],
+        "industries": [
+            "B2B",
+            "Legal"
+        ]
+    },
+    "30973": {
+        "id": 30973,
+        "name": "General Astronautics",
+        "one_liner": "Robotics for Space R&D",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "Industrials",
+            "Aviation and Space"
+        ]
+    },
+    "30963": {
+        "id": 30963,
+        "name": "TakeCareOS",
+        "one_liner": "Building infrastructure for AI-native care providers",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 1,
+        "tags": [
+            "SaaS",
+            "Health Tech",
+            "B2B",
+            "Healthcare",
+            "AI"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "30944": {
+        "id": 30944,
+        "name": "Prism",
+        "one_liner": "AI-native recruiting agency",
+        "locations": "London, United Kingdom",
+        "team_size": 4,
+        "tags": [
+            "Recruiting",
+            "HR Tech",
+            "Talent Acquisition",
+            "AI"
+        ],
+        "industries": [
+            "B2B",
+            "Recruiting and Talent"
+        ]
+    },
+    "30927": {
+        "id": 30927,
+        "name": "Oxus",
+        "one_liner": "AI-powered automation for internal audit workflows",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "30915": {
+        "id": 30915,
+        "name": "FinalDose",
+        "one_liner": "Programmable DNA drug destroying all cancers, unlocking 80% of targets",
+        "locations": "London, United Kingdom",
+        "team_size": 5,
+        "tags": [
+            "Artificial Intelligence",
+            "Gene Therapy",
+            "Therapeutics",
+            "Genetic Engineering"
+        ],
+        "industries": [
+            "Healthcare",
+            "Therapeutics"
+        ]
+    },
+    "30913": {
+        "id": 30913,
+        "name": "Captain",
+        "one_liner": "Give AI agents accurate knowledge search that scales",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "B2B",
+            "API",
+            "Data Engineering",
+            "Infrastructure"
+        ],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "30906": {
+        "id": 30906,
+        "name": "Agentic Fabriq",
+        "one_liner": "Okta for Agents.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Security"
+        ]
+    },
+    "30905": {
+        "id": 30905,
+        "name": "Travo",
+        "one_liner": "The data infrastructure for real estate",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 4,
+        "tags": [],
+        "industries": [
+            "Real Estate and Construction"
+        ]
+    },
+    "30876": {
+        "id": 30876,
+        "name": "Velum Labs",
+        "one_liner": "The OS for data quality across any stack",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Machine Learning",
+            "Data Engineering"
+        ],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "30860": {
+        "id": 30860,
+        "name": "Alt-X",
+        "one_liner": "Automation for institutional-grade financial modeling in Excel",
+        "locations": "Los Angeles, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "Fintech"
+        ]
+    },
+    "30779": {
+        "id": 30779,
+        "name": "Smartbase",
+        "one_liner": "Automated order entry for manufacturers",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "SaaS",
+            "B2B",
+            "Workflow Automation",
+            "Manufacturing",
+            "Automation"
+        ],
+        "industries": [
+            "B2B",
+            "Operations"
+        ]
+    },
+    "30770": {
+        "id": 30770,
+        "name": "Button Computer",
+        "one_liner": "Button is the wearable AI that can talk.",
+        "locations": "",
+        "team_size": 1,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Engineering, Product and Design"
+        ]
+    },
+    "30765": {
+        "id": 30765,
+        "name": "Pollen",
+        "one_liner": "AI agents that automate customer success",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 3,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Operations"
+        ]
+    },
+    "30737": {
+        "id": 30737,
+        "name": "Foresight",
+        "one_liner": "On-demand consumer insights",
+        "locations": "New York City, NY, USA",
+        "team_size": 2,
+        "tags": [
+            "Artificial Intelligence",
+            "Consumer",
+            "Market Research",
+            "Consumer Products"
+        ],
+        "industries": [
+            "B2B",
+            "Analytics"
+        ]
+    },
+    "30715": {
+        "id": 30715,
+        "name": "Autumn AI",
+        "one_liner": "Stalk your prospects at scale.",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Infrastructure"
+        ]
+    },
+    "30646": {
+        "id": 30646,
+        "name": "Humwork",
+        "one_liner": "Connect AI agents to human experts in 30 seconds",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "30641": {
+        "id": 30641,
+        "name": "Overdrive Health",
+        "one_liner": "AI-Native Medical Billing Services",
+        "locations": "New York City, NY, USA",
+        "team_size": 1,
+        "tags": [],
+        "industries": [
+            "Healthcare",
+            "Healthcare Services"
+        ]
+    },
+    "30639": {
+        "id": 30639,
+        "name": "Signals",
+        "one_liner": "Proactive AI customer support that engages high-value users",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [],
+        "industries": [
+            "B2B"
+        ]
+    },
+    "30635": {
+        "id": 30635,
+        "name": "Galactic Resource Utilization Space, Inc. (GRU Space)",
+        "one_liner": "Moon Hotel -> The Intergalactic Construction Company of Earth",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 1,
+        "tags": [],
+        "industries": [
+            "Industrials",
+            "Aviation and Space"
+        ]
+    },
+    "30620": {
+        "id": 30620,
+        "name": "Bidflow",
+        "one_liner": "AI Takeoffs for Electrical",
+        "locations": "New York, NY, USA",
+        "team_size": 2,
+        "tags": [
+            "SaaS",
+            "Computer Vision",
+            "Construction",
+            "Infrastructure"
+        ],
+        "industries": [
+            "Real Estate and Construction",
+            "Construction"
+        ]
+    },
+    "30408": {
+        "id": 30408,
+        "name": "Autostep",
+        "one_liner": "Uncover repetitive tasks and automate them",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 1,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Operations"
+        ]
+    },
+    "29155": {
+        "id": 29155,
+        "name": "jo",
+        "one_liner": "A new personal AI that actually knows you.",
+        "locations": "Menlo Park, CA, USA; Remote",
+        "team_size": 2,
+        "tags": [
+            "Artificial Intelligence",
+            "Consumer",
+            "AI",
+            "AI Assistant"
+        ],
+        "industries": [
+            "Consumer"
+        ]
+    },
+    "28879": {
+        "id": 28879,
+        "name": "Menza",
+        "one_liner": "The AI data analyst for consumer brands",
+        "locations": "London, United Kingdom",
+        "team_size": 3,
+        "tags": [],
+        "industries": [
+            "B2B",
+            "Analytics"
+        ]
+    },
+    "31155": {
+        "id": 31155,
+        "name": "Q2Q",
+        "one_liner": "We help private equity teams find acquisition targets faster",
+        "locations": "San Francisco, CA, USA",
+        "team_size": 2,
+        "tags": [
+            "Fintech",
+            "SaaS",
+            "B2B",
+            "AI"
+        ],
+        "industries": [
+            "B2B",
+            "Finance and Accounting"
+        ]
+    }
+}
