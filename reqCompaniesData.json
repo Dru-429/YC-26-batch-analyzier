@@ -2797,9 +2797,9 @@
         "locations": "San Francisco, CA, USA",
         "team_size": 4,
         "tags": [
-            "Artificial Intelligence",
             "Data Labeling",
-            "Infrastructure"
+            "Infrastructure",
+            "AI"
         ],
         "industries": [
             "B2B",

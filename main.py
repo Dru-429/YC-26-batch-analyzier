@@ -116,10 +116,12 @@
     [ai_count, non_ai_count],
     labels=["AI Startups", "Non-AI Startups"],
   )
-  plt.show
+  plt.title("AI vs Non-AI Startups")
+  plt.savefig("AI vs Non-AI.png")
+  plt.show()
   
   #Top industries plot
-  unique_ind_count.head(10).plot( kind="bar")
+  unique_ind_count.head(10).plot( kind="barh")
   plt.title("Top industries")
   plt.savefig("Top industries.png")
   plt.show()
@@ -132,14 +134,14 @@
   
   #teams size A
   teams = df["team_size"].value_counts()
-  teams.head(5).plot( kind="barh")
+  teams.head(5).plot( kind="bar")
   plt.title("Team Sizes")
   plt.savefig("Team Sizes.png")
   plt.show()
   
   #Locations
   locations = df["locations"].value_counts()
-  locations.head(5).plot( kind="bar")
+  locations.head(5).plot( kind="barh")
   plt.title("Office Locations")
   plt.savefig("Office Locations.png")
   plt.show()
