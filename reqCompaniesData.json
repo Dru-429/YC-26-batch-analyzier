@@ -53,11 +53,7 @@
         "one_liner": "Enabling Model-Hardware Co-Design at Scale",
         "locations": "",
         "team_size": 2,
-        "tags": [
-            "Developer Tools",
-            "Infrastructure",
-            "AI"
-        ],
+        "tags": [],
         "industries": [
             "B2B",
             "Infrastructure"
@@ -145,8 +141,8 @@
         "locations": "San Francisco, CA, USA",
         "team_size": 5,
         "tags": [
-            "Robotics",
-            "AI"
+            "Artificial Intelligence",
+            "Robotics"
         ],
         "industries": [
             "Industrials",
@@ -203,7 +199,7 @@
     "31550": {
         "id": 31550,
         "name": "Playabl.ai",
-        "one_liner": "Prompt-to-play AI game builder for everyone",
+        "one_liner": "TikTok for User-generated Games",
         "locations": "San Francisco, CA, USA",
         "team_size": 9,
         "tags": [
@@ -496,7 +492,7 @@
     "31528": {
         "id": 31528,
         "name": "Asendia AI",
-        "one_liner": "AI-powered recruitment workflows for staffing agencies and enterprise",
+        "one_liner": "AI-powered recruitment workflows for staffing agencies and enterprises",
         "locations": "San Francisco, CA, USA",
         "team_size": 3,
         "tags": [],
@@ -1034,14 +1030,14 @@
     "31481": {
         "id": 31481,
         "name": "Saudara AI",
-        "one_liner": "AI Native Sourcing Broker",
+        "one_liner": "AI Native Sourcing Broker For Overseas Manufacturing",
         "locations": "San Francisco, CA, USA",
         "team_size": 2,
         "tags": [
             "Artificial Intelligence",
             "B2B",
-            "Logistics",
             "Manufacturing",
+            "Supply Chain",
             "Procurement"
         ],
         "industries": [
@@ -1352,14 +1348,14 @@
     "31451": {
         "id": 31451,
         "name": "Archer",
-        "one_liner": "The bank that grows your company.",
+        "one_liner": "The AI business bank. Let agents move your money.",
         "locations": "New York, NY, USA",
         "team_size": 4,
         "tags": [
-            "Artificial Intelligence",
             "Crypto / Web3",
             "Finance",
-            "Neobank"
+            "Neobank",
+            "AI"
         ],
         "industries": [
             "B2B",
@@ -1414,14 +1410,9 @@
         "id": 31445,
         "name": "Harbor",
         "one_liner": "AI-native CRO for clinical trial operations",
-        "locations": "San Diego, CA, USA",
+        "locations": "",
         "team_size": 2,
-        "tags": [
-            "SaaS",
-            "Health Tech",
-            "B2B",
-            "Healthcare"
-        ],
+        "tags": [],
         "industries": [
             "Healthcare"
         ]
@@ -1496,10 +1487,16 @@
     "31440": {
         "id": 31440,
         "name": "Mount",
-        "one_liner": "The AI-Agent Insurance Carrier",
+        "one_liner": "The AI Insurance Carrier",
         "locations": "San Francisco, CA, USA",
         "team_size": 2,
-        "tags": [],
+        "tags": [
+            "Artificial Intelligence",
+            "Fintech",
+            "B2B",
+            "Insurance",
+            "AI"
+        ],
         "industries": [
             "Fintech",
             "Insurance"
@@ -1633,7 +1630,7 @@
     "31429": {
         "id": 31429,
         "name": "Oddpool",
-        "one_liner": "Institutional data layer for prediction markets",
+        "one_liner": "Institutional infrastructure for prediction markets",
         "locations": "San Francisco, CA, USA",
         "team_size": 2,
         "tags": [
@@ -2532,7 +2529,7 @@
     "31346": {
         "id": 31346,
         "name": "Rudus",
-        "one_liner": "AI Takeoffs Built for Concrete",
+        "one_liner": "AI Takeoffs for Concrete",
         "locations": "San Francisco, CA, USA",
         "team_size": 2,
         "tags": [
@@ -2726,10 +2723,10 @@
         "locations": "San Francisco, CA, USA",
         "team_size": 2,
         "tags": [
-            "Artificial Intelligence",
             "Fintech",
             "B2B",
-            "Insurance"
+            "Insurance",
+            "AI"
         ],
         "industries": [
             "Fintech",
@@ -3496,13 +3493,13 @@
     "31221": {
         "id": 31221,
         "name": "Netter",
-        "one_liner": "Data Science Autopilot for the real economy. ",
+        "one_liner": "AI native Palantir for mid market.",
         "locations": "San Francisco, CA, USA",
         "team_size": 4,
         "tags": [
+            "Artificial Intelligence",
             "Workflow Automation",
             "Big Data",
-            "AI",
             "ML"
         ],
         "industries": [
@@ -5549,7 +5546,7 @@
         "name": "Autostep",
         "one_liner": "Uncover repetitive tasks and automate them",
         "locations": "San Francisco, CA, USA",
-        "team_size": 1,
+        "team_size": 2,
         "tags": [],
         "industries": [
             "B2B",

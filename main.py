@@ -5,6 +5,7 @@
   import matplotlib.pyplot as plt
   from bs4 import BeautifulSoup
   import json 
+  from collections import Counter
 
   load_dotenv()
 
@@ -81,19 +82,42 @@
   all_ind = []
   all_tags = []
   all_locations = []
+  all_text = ""
+  AI_KEYWORDS = ["ai","agent","agents","llm","model","automation", "ml", "artificial intelligence", "machine learning", "deep learning", "neural network", "natural language processing", "computer vision", "reinforcement learning", "generative ai", "transformer"]
+  ai_count = 0
 
   for company in list_data:
     all_ind.extend(company["industries"])
     all_tags.extend(company["tags"])
     all_locations.extend(company["locations"])
+  
+  for company in list_data:
+    all_text += company["one_liner"] + " " + " ".join(company["tags"]) + " " 
+    comp_text = company["one_liner"] + " " + " ".join(company["tags"]) + " " 
+    if any(
+      keyword in comp_text.lower()
+      for keyword in AI_KEYWORDS
+    ):
+      ai_count += 1
+  
+  non_ai_count = len(req_data) - ai_count
+    
+  words = all_text.lower().split()
+  word_counts = Counter(words)
     
   unique_ind_count = pd.Series(all_ind).value_counts()
   unique_tags_count = pd.Series(all_tags).value_counts()
   all_text = ""
 
-for company in req_data:
-  all_text += company["one_liner"] + " "
-
+  print(f"Top most common words in one liners are: {word_counts.most_common(6)}")
+  
+  #Ai-non ai plot
+  plt.pie(
+    [ai_count, non_ai_count],
+    labels=["AI Startups", "Non-AI Startups"],
+  )
+  plt.show
+  
   #Top industries plot
   unique_ind_count.head(10).plot( kind="bar")
   plt.title("Top industries")
