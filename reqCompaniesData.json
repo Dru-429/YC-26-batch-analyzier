@@ -35,7 +35,7 @@
         "id": 32155,
         "name": "Rex",
         "one_liner": "AI Operations Partner for Enterprise Order to Cash",
-        "locations": "",
+        "locations": "London, United Kingdom",
         "team_size": 2,
         "tags": [
             "B2B",
@@ -496,8 +496,8 @@
     "31528": {
         "id": 31528,
         "name": "Asendia AI",
-        "one_liner": "AI Recruiters for Staffing Agencies and Enterprise",
-        "locations": "",
+        "one_liner": "AI-powered recruitment workflows for staffing agencies and enterprise",
+        "locations": "San Francisco, CA, USA",
         "team_size": 3,
         "tags": [],
         "industries": [
@@ -1352,13 +1352,14 @@
     "31451": {
         "id": 31451,
         "name": "Archer",
-        "one_liner": "The Financial Layer For Growth",
+        "one_liner": "The bank that grows your company.",
         "locations": "New York, NY, USA",
         "team_size": 4,
         "tags": [
+            "Artificial Intelligence",
             "Crypto / Web3",
             "Finance",
-            "AI"
+            "Neobank"
         ],
         "industries": [
             "B2B",
@@ -2286,7 +2287,7 @@
         "id": 31374,
         "name": "Tenet Industries",
         "one_liner": "Low-cost, mass-produced strike drones",
-        "locations": "",
+        "locations": "San Francisco, CA, USA",
         "team_size": 4,
         "tags": [
             "Hardware",
@@ -2317,7 +2318,7 @@
     "31372": {
         "id": 31372,
         "name": "Trellis",
-        "one_liner": "The operating layer for the next hospitality platform",
+        "one_liner": "The platform where short-term rentals run themselves",
         "locations": "San Francisco, CA, USA",
         "team_size": 6,
         "tags": [],
@@ -3051,7 +3052,7 @@
         "id": 31271,
         "name": "VOYGR",
         "one_liner": "Real-world place intelligence for AI apps and agents",
-        "locations": "",
+        "locations": "San Francisco, CA, USA",
         "team_size": null,
         "tags": [],
         "industries": [
@@ -3186,7 +3187,7 @@
         "id": 31254,
         "name": "Sila",
         "one_liner": "AI Work Messaging & Collaboration Platform",
-        "locations": "",
+        "locations": "New York City, NY, USA",
         "team_size": 2,
         "tags": [],
         "industries": [
@@ -3384,7 +3385,7 @@
         "id": 31232,
         "name": "Remy AI",
         "one_liner": "Documenting human dexterity ",
-        "locations": "",
+        "locations": "San Francisco, CA, USA",
         "team_size": 2,
         "tags": [],
         "industries": [
@@ -3789,7 +3790,7 @@
         "id": 31194,
         "name": "Valence",
         "one_liner": "Unified prediction markets trading platform",
-        "locations": "",
+        "locations": "San Francisco, CA, USA",
         "team_size": 3,
         "tags": [],
         "industries": [
@@ -3990,7 +3991,7 @@
         "id": 31176,
         "name": "Rhizome AI",
         "one_liner": "Agent Platform for Life Sciences",
-        "locations": "Remote",
+        "locations": "New York City, NY, USA; Remote",
         "team_size": 1,
         "tags": [],
         "industries": [
@@ -4978,7 +4979,7 @@
         "id": 31080,
         "name": "Didit",
         "one_liner": "Infrastructure for identity and fraud.",
-        "locations": "",
+        "locations": "San Francisco, CA, USA",
         "team_size": 12,
         "tags": [],
         "industries": [
@@ -5431,7 +5432,7 @@
         "id": 30770,
         "name": "Button Computer",
         "one_liner": "Button is the wearable AI that can talk.",
-        "locations": "",
+        "locations": "San Francisco, CA, USA",
         "team_size": 1,
         "tags": [],
         "industries": [
